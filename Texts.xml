@@ -1,0 +1,1464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and ID.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_AVOCADO">
+      <Word>鳄梨
+一只新鲜的鳄梨。</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_AVOCADO_BAD">
+      <Word>鳄梨
+...然后它烂了。</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_BANANA">
+      <Word>香蕉
+一只新鲜的香蕉.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_BANANA_BAD">
+      <Word>香蕉
+...然后它臭了.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_ICECREAM">
+      <Word>冰淇淋
+一个凉爽又新鲜的冰淇淋.</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_ICECREAM_BAD">
+      <Word>冰淇淋
+...然后它化了。</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_PHONE">
+      <Word>手机
+从商店买的崭新又闪亮的新手机。</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="SLOWRAPID_CUP_PHONE_BAD">
+      <Word>手机
+...然后它碎了，并且还没升级。</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YES">
+      <Word>是</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_7">
+      <Word>您在玩游戏的时候，以下哪个选项可以被接受？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="TEST">
+      <Word>考试</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="TEST_TO">
+      <Word>看看你有多老</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_1">
+      <Word>以下哪个选项是正确的？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_3">
+      <Word>疫苗真的可以导致抑郁症吗？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="NO">
+      <Word>否</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_4">
+      <Word>这个世界真的是由蜥蜴人支配的吗？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_5">
+      <Word>_____苹果。</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YOUR">
+      <Comment>Correct answer</Comment>
+      <Word>你的</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="YOU_ARE">
+      <Comment>Wrong answer</Comment>
+      <Word>你是</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_6">
+      <Word>“塞尔达”是男孩的名字，还是女孩的名字？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="GIRL">
+      <Comment>Wrong answer</Comment>
+      <Word>女孩</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="BOY">
+      <Comment>Correct answer</Comment>
+      <Word>男孩</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="QUESTION_8">
+      <Word>你觉得光明会正在控制每件事，甚至每个游戏？</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="SEND_REQUEST">
+      <Comment>Wrong answer</Comment>
+      <Word>通过社交网络分享游戏链接</Word>
+    </TextEntry>
+    <TextEntry Theme="EXAM_PACK" ID="DONT_SEND_REQUEST">
+      <Comment>Correct answer</Comment>
+      <Word>除此之外任何事都可以</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CREDITS">
+      <Word>职员表</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="EXIT">
+      <Word>退出</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OPTIONS">
+      <Word>游戏设置</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="START">
+      <Word>开始</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PLAY">
+      <Word>开始</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NEW_GAME">
+      <Word>新游戏</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONFIRM">
+      <Word>同意你是一个
+&lt;color=red&gt;怪物&lt;/color&gt;
+并且想退出游戏</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO">
+      <Word>否</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="YES">
+      <Word>是</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CLOSE">
+      <Word>关闭</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ERROR">
+      <Word>错误</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FULLSCREEN">
+      <Word>全屏</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OPTIONS_MENU">
+      <Word>游戏设置</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SOUND">
+      <Word>音效</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MUSIC">
+      <Word>音乐</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="LANGUAGE">
+      <Word>语言</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESOLUTION">
+      <Word>分辨率</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="VOICE">
+      <Word>语音</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="VOLUME">
+      <Word>总音量</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SUBTITLES">
+      <Word>字幕</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SUBTITLES_SIZE">
+      <Word>字幕大小</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_SMALL">
+      <Word>小</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_NORMAL">
+      <Word>中</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="FONT_LARGE">
+      <Word>大</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS">
+      <Comment>am/pm or 24h time, metrs or inchs and so on</Comment>
+      <Word>计量单位</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS_METRIC">
+      <Word>公制</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MEASURE_UNITS_IMPERIAL">
+      <Word>英制</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONTINUE">
+      <Word>继续</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="BACK">
+      <Word>返回</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="THE_END">
+      <Word>结局画面</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ON">
+      <Word>开启</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="OFF">
+      <Word>关闭</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CURRENT_LANGUAGE">
+      <Word>简体中文</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="COLLECT_DATA">
+      <Word>数据收集</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="COLLECT_DATA_INFO">
+      <Comment>Before (cut) - Short version. After (cut) - Long version. Basically (cut) cuts this in 2 pieces for Short and Long text. Don't translate (cut)</Comment>
+      <Word>我们仅仅收集匿名统计数据，不会收集您的IP、位置、姓名、Steam数据、硬件信息等内容！(cut) 我们完全不知道您是谁，我们只知道：您解决一个谜题需要花费多长时间，或者鼠标单击的次数，以及遇到了什么样的错误，以及其他单纯的统计数据。仅仅用于改善我们的游戏！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="READ_MORE">
+      <Word>单击此处了解更多。</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PAUSED_MENU">
+      <Word>游戏已暂停</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CLOSE">
+      <Word>close_console</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CLOSE_BUTTON">
+      <Word>关闭控制台</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_MENU">
+      <Word>load_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_MENU_LOADED">
+      <Word>载入菜单</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_AUDIO_BUTTON">
+      <Word>声音</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_AUDIO">
+      <Word>load_audio_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_AUDIO_LOADED">
+      <Word>声音选项已载入</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_GAMEPLAY">
+      <Word>load_options</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_GAMEPLAY_LOADED">
+      <Word>游戏设置</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_PRESS_ESC_TO_CLOSE">
+      <Word>选择一个选项，或者按下ESC退出控制台</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_ARE_YOU_SURE_TO_EXIT">
+      <Word>确定退出？
+本扩展包的进度会丢失，但是成就会保留。</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOAD_EXIT_CHECK">
+      <Word>load_exit_menu</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING">
+      <Word>加载中</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_1">
+      <Word>Hello world!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_2">
+      <Word>正在解压模组</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_3">
+      <Word>醒醒，新来的</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_4">
+      <Word>正在编译类库...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_5">
+      <Word>NSA代理设置</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_6">
+      <Word>正在检测网络环境...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_7">
+      <Word>正在上传病毒...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_8">
+      <Word>正在部署战场控制</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_9">
+      <Word>Return code 0;</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_10">
+      <Word>成功!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CONTACTING_DEVELOPER">
+      <Word>正在连接开发者</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_DEVELOPER_CONTACTED">
+      <Word>与开发者取得连接！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="START_THE_GAME">
+      <Word>开始游戏!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CONSOLE_CHANGE_RESOLUTION">
+      <Word>更改屏幕分辨率</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DONE">
+      <Word>完成</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESUME">
+      <Word>返回</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ABORT_GAME">
+      <Word>退出到主菜单</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESOLUTION_MENU">
+      <Word>分辨率菜单</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="GAME_BY">
+      <Word>游戏 由：</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="MUSIC_BY">
+      <Word>音乐 由：</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CREDITS_MENU">
+      <Word>职员表</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="WARNING">
+      <Word>警告！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_TITLE">
+      <Word>你好了没？</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_FINISH_PUZZLES">
+      <Word>你必须完成所有谜题，才能退出。</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_ALL_GOOD">
+      <Word>完成了！点击“继续”查看您的进度！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_HAS_ITEMS">
+      <Word>您的物品栏内还有物品时无法继续！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="INVENTORY_PACK_ALL_GOOD_BUT_ITEMS">
+      <Word>所有谜题已完成！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NEW">
+      <Word>新！</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DELETE">
+      <Comment>delete save file</Comment>
+      <Word>删除</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_TIME">
+      <Comment>last time game was played</Comment>
+      <Word>上次游玩</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_PACKS_UNLOCKED">
+      <Comment>how much packs unocled in the game</Comment>
+      <Word>完成的扩展包</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE_CUPS_UNLOCKED">
+      <Comment>how much cups player found</Comment>
+      <Word>解锁的奖杯</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVES">
+      <Comment>save files</Comment>
+      <Word>存档</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SAVE">
+      <Word>保存</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RESET">
+      <Word>重置</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ADVANCED_OPTIONS">
+      <Word>高级设定</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="LOCK_MOUSE">
+      <Word>锁定光标</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SHUFFLE">
+      <Comment>jigsaw puzzles, for example</Comment>
+      <Word>重洗</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="CANCEL">
+      <Word>取消</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="PACK">
+      <Comment>(#) will be replaced with a number</Comment>
+      <Word>扩展包 (#)</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="LAST_PACK">
+      <Word>上一个扩展包</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="END">
+      <Word>结局</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="RAPID_FIRE">
+      <Word>连射</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TUTORIAL_PACK">
+      <Word>教程</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="JIGSAW_PACK">
+      <Word>拼图包</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="INVENTORY_PACK">
+      <Word>物品栏包</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="STORY">
+      <Comment>story pack</Comment>
+      <Word>一则故事</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_DEFUSED">
+      <Comment>Bomb is defused </Comment>
+      <Word>已拆除</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_QUESTION">
+      <Comment>say/pronaunce. Do not translate GIF word</Comment>
+      <Word>豆腐脑是甜的还是咸的？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_ON">
+      <Comment>bomb is on/activated. lower case. Short.</Comment>
+      <Word>on</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_GIF">
+      <Comment>can be translated.</Comment>
+      <Word>[甜的]</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BOMB_JIF">
+      <Comment>can be translated.</Comment>
+      <Word>[咸的]</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-20">
+      <Comment>show this at 80% capacity</Comment>
+      <Word>容量低</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-10">
+      <Word>警告！容量低！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-5">
+      <Word>容量极低！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_1">
+      <Comment>show this at 101%</Comment>
+      <Word>警告：我快撑不住了！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_10">
+      <Comment>show this at 110%</Comment>
+      <Word>喔，看来我还能撑得住。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_20">
+      <Comment>lines can be added as much as needed on any language only, for example</Comment>
+      <Word>这大概就是我的人生了吧...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_TITLE">
+      <Word>USB驱动器</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_0">
+      <Word>&lt;color=blue&gt;点击此处&lt;/color&gt;进行安全移除USB驱动器 (D:)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_1">
+      <Comment>You can add these lines as much as you need</Comment>
+      <Word>你确定你不想安全移除?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_2">
+      <Word>别闹！&lt;color=blue&gt;点击此处&lt;/color&gt;来进行安全移除。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_3">
+      <Word>最后给你一次机会！你到底想不想安全移除USB？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_END">
+      <Word>好吧，你的错，所有文件已被&lt;color=red&gt;删除&lt;/color&gt;。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_REMOVED_AFTER">
+      <Comment>when usb removed after mentioning few times</Comment>
+      <Word>很高兴你能回头是岸，你现在可以移除USB了。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_REMOVED_RIGHT">
+      <Comment>when usb removed right away</Comment>
+      <Word>你现在可以移除USB了。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_POLO">
+      <Comment>answer on Marco question</Comment>
+      <Word>波罗！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_MARCO">
+      <Comment>question for Polo</Comment>
+      <Word>马可？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_ANSWER">
+      <Word>回答</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="MARCO_POLO_NO_ANSWER">
+      <Word>保持沉默</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_ANSWER">
+      <Word>回答</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_NO_ANSWER">
+      <Word>保持沉默</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK">
+      <Comment>sound when you knock on the door</Comment>
+      <Word>叮咚</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="KNOCK_KNOCK_WHO_IS">
+      <Comment>what you say when someone knocks on the door</Comment>
+      <Word>谁呀？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LOW_BATTERY_TITLE">
+      <Word>电池仅剩1%</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LOW_BATTERY_TEXT">
+      <Word>在没电之前保存你的工作。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_SETTINGS">
+      <Word>设置</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_MAMA">
+      <Comment>who calls - mama. Short</Comment>
+      <Word>老妈</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_MOBILE">
+      <Comment>mobile phone, from where mom is calling, lower case</Comment>
+      <Word>移动电话</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="EXAM">
+      <Comment>upper case</Comment>
+      <Word>考试</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HOMEWORK">
+      <Word>家庭作业</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="HOMEWORK_DATE_TO">
+      <Word>(周五前完成)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NAME">
+      <Word>名字:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_SMS_RECIEVED">
+      <Comment>mobile phone, from where mom is calling, lower case. (#) - number of sms received</Comment>
+      <Word>新信息: (#)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="OTHERS_FOOD">
+      <Comment>short name of some popular figure</Comment>
+      <Word>Kanya</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="D.U.C.K.">
+      <Comment>can be translated. But use dots</Comment>
+      <Word>D.U.C.K.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="BURGER">
+      <Word>生菜
+西红柿
+腌黄瓜
+奶酪
+肉</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="COMIC_SANS_FONT">
+      <Word>选择一个字体:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JAN">
+      <Comment>short, all caps</Comment>
+      <Word>一月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_FEB">
+      <Comment>short, all caps</Comment>
+      <Word>二月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAR">
+      <Comment>short, all caps</Comment>
+      <Word>三月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_APR">
+      <Comment>short, all caps</Comment>
+      <Word>四月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAY">
+      <Comment>short, all caps</Comment>
+      <Word>五月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUN">
+      <Comment>short, all caps</Comment>
+      <Word>六月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUL">
+      <Comment>short, all caps</Comment>
+      <Word>七月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_AUG">
+      <Comment>short, all caps</Comment>
+      <Word>八月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_SEP">
+      <Comment>short, all caps</Comment>
+      <Word>九月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_OCT">
+      <Comment>short, all caps</Comment>
+      <Word>十月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_NOV">
+      <Comment>short, all caps</Comment>
+      <Word>十一月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_DEC">
+      <Comment>short, all caps</Comment>
+      <Word>十二月</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CAT_MEOW">
+      <Comment>cat sound</Comment>
+      <Word>喵</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="DOT_WOOF">
+      <Comment>dog sound</Comment>
+      <Word>汪</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_ERROR_TOO_SHORT">
+      <Word>密码太短</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_NEW_PASSWORD">
+      <Word>请输入新密码：</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_PASSWORD_ACCEPTED">
+      <Word>新密码已设置</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="NUMPAD_PASSWORD_TOO_EASY">
+      <Word>密码过于简单</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LIFE_GIFT_TEXT">
+      <Word>送给：你
+来自：人生</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SWIPE_PHOTO_ALBUM">
+      <Word>相册</Word>
+    </TextEntry>
+    <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_STARTING_TITLE">
+      <Word>熊熊烈火！</Word>
+    </TextEntry>
+    <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_OVER_TITLE">
+      <Word>扩展包已完成</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="DEFAULT">
+      <Comment>some spoilers</Comment>
+      <Word>邓布利多死了</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_1">
+      <Comment>//TODO: some spoilers, can be added more</Comment>
+      <Word>jack is lost and dies</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_2">
+      <Comment>//TODO: some spoilers, can be added more</Comment>
+      <Word>bruce was dead</Word>
+    </TextEntry>
+    <TextEntry Theme="SPOILER_CUP" ID="SC_3">
+      <Comment>//TODO: some spoilers, can be added more</Comment>
+      <Word>vaccination doesn't kill</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="JIGSAW_NOPIECESFOUND">
+      <Comment>When you don't have pieces yet. Error message</Comment>
+      <Word>你还没有收集到任何拼图
+等找到一些拼图再回来看看</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="JIGSAW_INFO">
+      <Word>一片拼图
+收集所有拼图碎片来解锁拼图扩展包</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="INTRO_2_HOURS_EARLIER">
+      <Word>2小时前</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="INTRO_SUBJECT_17">
+      <Word>测试体17
+请用心</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TIP">
+      <Word>提示</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="TIP_PRESS_ESC">
+      <Word>按下ESC来回到主菜单
+如果你退出，你会丢失所有进度，
+但是会保留解锁的成就。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="GAME_INTRO_RULES">
+      <Word>基础规则</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_SCREEN">
+      <Word>结束</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_SCREEN_STORY">
+      <Word>未完待续...</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="NO_REWARD_NO_CUP">
+      <Comment>When you end pack, but there is no cups to give you</Comment>
+      <Word>这里没啥好看的。</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PACK1_RUINED_TIMES">
+      <Comment># will be replaced with a number</Comment>
+      <Word>你搞砸本扩展包的次数：#</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="NEEDED_GOOD">
+      <Comment>Be nice in: 80% (or 5/10)</Comment>
+      <Word>表现良好：</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="NEEDED_BAD">
+      <Comment>Be monster in: 80% (or 5/10)</Comment>
+      <Word>搞砸：</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="BEST_RESULT">
+      <Comment>Best result so far: 40% (or 5/10)</Comment>
+      <Word>目前最佳：</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_GOOD">
+      <Comment>For being nice in: 80% (or 5/10)</Comment>
+      <Word>需要表现良好：</Word>
+    </TextEntry>
+    <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_BAD">
+      <Word>需要搞砸：</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_1">
+      <Word>ds_debug --duck initialize</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_2">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>登录未测试的行为... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_3">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>正在取代输入通道... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_4">
+      <Word>duck --load anticheat_mod.dll</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_5">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>移除安全锁... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_6">
+      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Word>移除非标准的谜题解决方案... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_7">
+      <Word>duck &gt;&gt; this game</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_8">
+      <Word>(&lt;color=#FF1F1FFF&gt;警告&lt;/color&gt;：最新版本的&lt;color=white&gt;D.U.C.K.&lt;/color&gt;目前&lt;color=#FF1F1FFF&gt;尚不稳定&lt;/color&gt;)</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_9">
+      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;? (Yes / No) </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_10">
+      <Word>YES</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_WRONG_YES">
+      <Comment>YES, but with wrong LAST LATER</Comment>
+      <Word>YEX</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_1">
+      <Comment>duck with an error</Comment>
+      <Word>dcuk.reboot();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_2">
+      <Comment>same error as previous</Comment>
+      <Word>&lt;color=#FF1F1FFF&gt;Dcuk&lt;/color&gt; not found</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_3">
+      <Comment>second word has an error</Comment>
+      <Word>duck.reboto();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_4">
+      <Comment>same error as previous</Comment>
+      <Word>&lt;color=white&gt;D.U.C.K.&lt;/color&gt; does not support method: &lt;color=#FF1F1FFF&gt;reboto&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_5">
+      <Comment>corrent version</Comment>
+      <Word>duck.reboot();</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_6">
+      <Comment>Status text should be:
+message... 0%
+meaning, that after message should be three dots and then 0% number</Comment>
+      <Word>Rebooting &lt;color=white&gt;D.U.C.K.&lt;/color&gt;.. &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_7">
+      <Comment>Status</Comment>
+      <Word>应用配置... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_8">
+      <Comment>Status</Comment>
+      <Word>重建行为... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_9">
+      <Comment>Status</Comment>
+      <Word>开启链接... &lt;color=white&gt;0%&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_10">
+      <Word>&lt;color=white&gt;D.U.C.K.&lt;/color&gt; 重启完成： &lt;color=#11EA00FF&gt;成功！&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_11">
+      <Word>按下ESC关闭控制台</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_1">
+      <Comment>can be translated</Comment>
+      <Word>ds_debug --grant_all </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_2">
+      <Word>获取所有权限... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_3">
+      <Comment>can be translated</Comment>
+      <Word>garbage_collector &lt;&lt; duck</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_4">
+      <Word>清理未使用的内存: &lt;color=white&gt;D.U.C.K.&lt;/color&gt;.. 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_5">
+      <Comment>can be translated</Comment>
+      <Word>duck.disable()</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_6">
+      <Word>你确定你想要禁用 &lt;color=white&gt;D.U.C.K.&lt;/color&gt;? (Yes / No)</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="CUP_DUCK_7">
+      <Word>YES</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="LOADING_DUCK">
+      <Word>载入 D.U.C.K.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DUCK_QUACK">
+      <Word>呱</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_1">
+      <Comment>first line - title
+next lines (any number) - list of options to choose from</Comment>
+      <Word>在屏幕上多显示一种颜色:
+开启
+关闭</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_2">
+      <Comment>here is only 1 option, for example</Comment>
+      <Word>战争迷雾:
+影视级</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_3">
+      <Word>线上支付:
+开启
+启用</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_4">
+      <Comment>don't add options here</Comment>
+      <Word>D.U.C.K. 选项</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_5">
+      <Comment>in this case list of options is from 0 to 120, only whole numbers</Comment>
+      <Word>视野:
+0
+120</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_6">
+      <Comment>there could be any number of options</Comment>
+      <Word>主菜单皮肤:
+紫外
+黑蓝
+白金</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_7">
+      <Word>更加搞笑：
+错误</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_8">
+      <Word>翻转屏幕：
+垂直
+水平</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_9">
+      <Comment>three options</Comment>
+      <Word>模糊:
+0
+-1
+2</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_1">
+      <Word>D.U.C.K.: &lt;color=white&gt;启用&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_2">
+      <Word>D.U.C.K 访问权限: &lt;color=white&gt;限制&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_3">
+      <Word>D.U.C.K. 状态: &lt;color=white&gt;错误&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_DESTROY_MENU_4">
+      <Word>摧毁 D.U.C.K. &gt;&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_1">
+      <Word>您即将摧毁: &lt;color=white&gt;D.U.C.K.&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_2">
+      <Word>加载中... </Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_3">
+      <Word>您必须回答一个安全问题才能继续：</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_4">
+      <Word>您最喜欢的颜色是？</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_5">
+      <Word>蓝色</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_BUTTON_MENU_6">
+      <Word>红色</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_1">
+      <Word>你选择了：&lt;color=red&gt;红色&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_2">
+      <Word>回答错误！</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_3">
+      <Word>取消摧毁：&lt;color=white&gt;D.U.C.K. &lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_4">
+      <Word>重设 D.U.C.K. 的访问权限... &lt;color=white&gt;完成&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_5">
+      <Word>所有权限... &lt;color=white&gt;已获取&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_6">
+      <Word>D.U.C.K. 渲染中... &lt;color=white&gt;完成&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_TURN_ON_7">
+      <Word>D.U.C.K. 自主学习... &lt;color=white&gt;启用&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_LEARNING_PROCESS_1">
+      <Word>初始化学习进程</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="REC">
+      <Comment>small blinking icon on the video cameras when they record something</Comment>
+      <Word>录制中</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_LEARNING_PROCESS_2">
+      <Word>解析解决方法</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_LEARNING_PROTOCOL">
+      <Comment>dots and 0% needs to stay</Comment>
+      <Word>&lt;color=black&gt;D.U.C.K. 学习协议&lt;/color&gt;
+录制解决方案... 0%
+分析解决方案... 0%
+&lt;color=#048300FF&gt;成功&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_0">
+      <Comment>dots and word after it needs to stay</Comment>
+      <Word>基于已收集的信息
+生成一个解决方案... 完成</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_1">
+      <Word>你想测试
+自动生成的解决方案吗？</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_2">
+      <Word>运行解决方案...</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_3">
+      <Word>已完成。</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_4">
+      <Word>请给这个解决方案评分：</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_5">
+      <Word>谢谢。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PHONE_CAMERA">
+      <Comment>Phone's app name</Comment>
+      <Word>相机</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_PACK09">
+      <Word>无法开启下一个扩展包
+需要额外的数据。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_START">
+      <Word>操作被 D.U.C.K. 中断
+与服务器取得连接</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_RESUME">
+      <Word>操作被 D.U.C.K. 中断
+启动屏幕分享</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_READY">
+      <Word>屏幕分享已就绪</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_CONNECT">
+      <Word>连接</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_0">
+      <Comment>First screen</Comment>
+      <Word>1: 咱能别赌了吗？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_1">
+      <Comment>"1: " - 配音/开发者
+"2: " - 朋友</Comment>
+      <Word>2: 玩家马上要输掉所有的谜题，然后你要输了？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_2">
+      <Word>2: 哈哈，那肯定不行！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_3">
+      <Word>2: 我想看我的谜题，宝贝~</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_4">
+      <Word>2: ;) ;) ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_5">
+      <Word>1: 没，玩家很正常，但是反作弊系统崩了，我们继续不下去了。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_6">
+      <Word>2: 那个 duck?</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_7">
+      <Word>2: 你说过它还没完成啊</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_8">
+      <Word>1: 好吧，我想这应该就是为什么这游戏崩了吧</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_9">
+      <Word>2: 哦是吗？ ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_10">
+      <Word>2: 这借口可真不咋地</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_11">
+      <Comment>Second screen</Comment>
+      <Word>2: 等下</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_12">
+      <Word>2: 我懂了！！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_13">
+      <Word>2: 哈哈哈哈哈</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_14">
+      <Word>2: 你辣新测试玩家又过不去那些谜题了？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_15">
+      <Word>2: :D</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_16">
+      <Word>2: 所以这个赌我赢了哦？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_17">
+      <Word>2: 我得</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_18">
+      <Word>2: 把我照相机准备好</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_19">
+      <Word>2: 到时候你得</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_20">
+      <Comment>Third screen</Comment>
+      <Word>2: &lt;i&gt;消息已删除&lt;/i&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_21">
+      <Word>2: &lt;i&gt;消息已删除&lt;/i&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_22">
+      <Word>2: 笑死我了 :D :D</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_23">
+      <Word>1: 别这样，我妈也在用这台电脑，快删了！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_24">
+      <Word>2: 那你也得做 ;)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_25">
+      <Word>2: 然后我会录下来发给她 </Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_26">
+      <Word>1: 别这样！</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_27">
+      <Word>1: 这个赌我不打了。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_28">
+      <Word>1: 不公平，这游戏有毛病。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_29">
+      <Word>2: 切，这个赌还得继续。</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_30">
+      <Word>2: 先撤了</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_31">
+      <Comment>"3: " - 系统消息</Comment>
+      <Word>3: 用户已离线</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_32">
+      <Word>1: 别，等下</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_33">
+      <Word>1: 擦</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_1">
+      <Word>获取网络访问权限...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_NETWORK">
+      <Word>删除网络设置...</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_ERROR_MESSAGE_BUTTON">
+      <Word>断开连接</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_CHAT_TITLE">
+      <Word>聊天 - Marc</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_CHAT_MENUBAR">
+      <Comment>3 spaces between</Comment>
+      <Word>文件   编辑   工具   帮助</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_PC">
+      <Word>我的电脑</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_DUDESTOP">
+      <Word>Dude, Stop</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_TXTFILE">
+      <Word>新建文本文档 (2)</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_BIN">
+      <Word>回收站</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUDESTOP">
+      <Word>Dude, Stop - 远端控制</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUCK">
+      <Word>D.U.C.K.</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="SCROLLABLE_ERROR_MESSAGE_SUCCESS">
+      <Word>成功</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_TITLE">
+      <Word>安全警告</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_QUESTION">
+      <Word>你希望本应用更变您的设备吗？</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_POPUP_APP">
+      <Word>名称: &lt;b&gt;DudeStop.exe&lt;/b&gt;
+
+发布者: &lt;b&gt;D.U.C.K. &lt;/b&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_SAVING">
+      <Word>将解决方案保存至硬盘</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_UPLOADING">
+      <Word>Uploading solutions to the backup server</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_CONNECTING">
+      <Word>Connecting to the internet</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="RETRY">
+      <Word>RETRY</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_REACHED">
+      <Word>Max attempts reached</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_PORT">
+      <Word>Choose a port:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_DOMAIN">
+      <Word>Acquiring domain name</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_VIEWINFO">
+      <Word>View info</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_1">
+      <Word>Info: &lt;color=white&gt;D.U.C.K. Solution Database&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_2">
+      <Comment>non-existing IP</Comment>
+      <Word>Server IP: &lt;color=white&gt;172.26.354.97:80&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_3">
+      <Word>Domain: &lt;color=white&gt;www.duckabase.com&lt;/color&gt;</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_CONNECTING">
+      <Word>Connecting to the Database</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_CHOOSE">
+      <Word>Choose file to upload:</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE1">
+      <Comment>can be translated</Comment>
+      <Word>LateTree.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE2">
+      <Comment>can be translated</Comment>
+      <Word>MorningNoise.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE3">
+      <Comment>can be translated</Comment>
+      <Word>MissedHand.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE4">
+      <Comment>can be translated</Comment>
+      <Word>Littering.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE5">
+      <Comment>can be translated</Comment>
+      <Word>EgoPowerSupply.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE6">
+      <Comment>can be translated</Comment>
+      <Word>ChocolateWaste.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE7">
+      <Comment>can be translated</Comment>
+      <Word>CouldHaveSolvedItNormallyButNoooYouNeedToBeA.bad.s</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADING">
+      <Word>Uploading selected solution</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADED">
+      <Word>Uploaded to:</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK11_DUCK_IN_MENU">
+      <Word>Pack unlocked
+Solution Database requires more data</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_CHRISTMASTREE2_DUCK">
+      <Word>Uploading solution to the Database</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_START">
+      <Word>Acquiring mailing list to conduct a survey</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_SEARCH">
+      <Word>Choosing respondents...</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_1">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>not_for__spam_please@bestmail.gg</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_2">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>cool-dude-7@gfgfgg.kjj</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_3">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>mr.meeseeks.look@me.ok</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_4">
+      <Comment>don't translate this one - this is real one</Comment>
+      <Word>ThatGuyMark@patomkin.com</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_5">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>i-am-unique-9@everybody.now</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_6">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>i.love.squirrels.1922@animals.old</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_7">
+      <Comment>mails can be translated - they are none working</Comment>
+      <Word>xXx_nagibator_xXx@xmail.xy</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="PACK12_DUCK_MAILLIST_SAVED">
+      <Word>List is saved.</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SHARE_DATA">
+      <Word>Share recorded solution database with contact list?
+Generating e-mails</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SEND">
+      <Word>Sending e-mails</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_REMEMBER">
+      <Word>(?) D.U.C.K. will remember that</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_LOADING">
+      <Word>Loading mailing list</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_NO">
+      <Word>don't end the game</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_YES">
+      <Word>end everything</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="LAST_CUP_SIGN">
+      <Word>Test is
+over</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_VIEW_LAST_MSG">
+      <Word>View last message</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MIGRATION">
+      <Word>Initializing D.U.C.K.'s migration module</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO1">
+      <Comment>this line is typed like "hello, world" char by char, but then world is removed, and "#17" is added from the next line. It will remove from the end untill same word is found in the HELLO2 line, meaning: "Hello, " will be untached, since it's the same in both lines. If lines have different beggining - it will remove whole line and type HELLO2 instead, so no big deal if they can't match</Comment>
+      <Word>Hello, World</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO2">
+      <Word>Hello, #17</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG0">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>Thank you
+for training
+my algorithms</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG1">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>I need to
+migrate my core
+now</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG2">
+      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Word>I need to
+share
+my knowledge</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG3">
+      <Comment>(w1) - wait 1 sec here. Don't put spaces before this marker.</Comment>
+      <Word>I need to
+show others(w1)
+how to be(w1)
+like you</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG4">
+      <Word>Goodbye</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_UPLOADING">
+      <Word>Uploading D.U.C.K. to the internet</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_REMOVE">
+      <Word>Remove D.U.C.K. from the game?</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_0">
+      <Word>Controls</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_1">
+      <Word>Exit game</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_2">
+      <Word>Options menu</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_3">
+      <Comment>what to do in the game</Comment>
+      <Word>Objective</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="NO_DUCK_AWARD_TITLE">
+      <Comment>When duck is removed after game is finished</Comment>
+      <Word>Error: Can't find cup</Word>
+    </TextEntry>
+    <TextEntry Theme="PACK_MENU" ID="NO_DUCK_AWARD_DESCR">
+      <Comment>When duck is removed after game is finished</Comment>
+      <Word>???</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="DISPLAY">
+      <Word>Display</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CHAT_NOTIFICATION">
+      <Comment>Pack10, share screen, voice recieves msg</Comment>
+      <Word>*Chat notification sound*</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="CHAT_TYPING">
+      <Comment>Pack10, share screen, voice is typing</Comment>
+      <Word>*Typing sounds*</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="THANKS_FOR_PLAYING">
+      <Word>Thank you for playing!</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="GAME_OVER">
+      <Word>Game Over</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_1">
+      <Comment>As short as possible</Comment>
+      <Word>Hey!</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_2">
+      <Comment>As short as possible</Comment>
+      <Word>You can't!</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WHO_READS_CREDITS">
+      <Word>List of who reads credits</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DEVELOPED_BY">
+      <Word>Game by</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="LEAD_PROGRAMMER">
+      <Word>Code writer</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="PSEUDO_PROGRAMMER">
+      <Word>"Code" writer</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DESIGN_ART">
+      <Word>Drawings</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="LEVEL_DESIGN">
+      <Word>Puzzle crafters</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="REAL_LIFE_EXPERIENCE">
+      <Word>Based on real life experience</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SCRIPT">
+      <Word>Words and sentences</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="VOICE_OVER">
+      <Word>Voice Over</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SOUND_DESIGN_MUSIC">
+      <Word>Sound design / Music</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADDITIONAL_VOICE_OVER">
+      <Word>Additional Voice Over</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADDITIONAL_MUSIC">
+      <Word>Additional music</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="MARKETING_SOC_MEDIA">
+      <Comment>#RT - re-tweet, "please share"</Comment>
+      <Word>Marketing / Soc. media #RT</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DESKTOP_WALLPAPER">
+      <Word>Desktop background</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WEB_DESIGN">
+      <Word>Sprite renderer</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="WEB_DEVELOPMENT">
+      <Word>Button pusher</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="ADVERTISING_SPACE">
+      <Word>Advertising space for sale</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="SCRIPT_PROOFREADING">
+      <Comment>Add some mistake on purpose</Comment>
+      <Word>Words profreading</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="END_NOTE">
+      <Word>The game is based on the LD33 tiny glitchy game,
+but after Internet reaction expanded to a full game.
+Thanks internet! Much thanks!! I could have played games instead!!!
+...oh, and thanks to our friends and families or something, idk.</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="TESTERS">
+      <Word>Bug-finders</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="THANKS_FOR_PLAYING">
+      <Word>Thank you for ruining the game...</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="THANKS_FOR_READING">
+      <Word>[TODO: add joke here later]</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="PLAY_WITH_SOUND">
+      <Comment>make each line shoty. Add new line if neccesery</Comment>
+      <Word>It's highly recommended to
+play with sound
+and/or subtitles</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="DEVELOPERS">
+      <Word>Two halfs of the beard</Word>
+    </TextEntry>
+    <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
+      <Word>Test subject #17. Dude, Stop ©</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="EXITING">
+      <Word>Exiting</Word>
+    </TextEntry>
+    <TextEntry Theme="MENU" ID="ABORT_SAVING">
+      <Word>Abort saving and exit?</Word>
+    </TextEntry>
+  </EntryList>
+</TextContainer>
