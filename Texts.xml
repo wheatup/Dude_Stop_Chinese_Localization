@@ -66,15 +66,15 @@
       <Word>这个世界真的是由蜥蜴人支配的吗？</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="QUESTION_5">
-      <Word>_____苹果。</Word>
+      <Word>快乐_____玩游戏。</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="YOUR">
       <Comment>Correct answer</Comment>
-      <Word>你的</Word>
+      <Word>地</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="YOU_ARE">
       <Comment>Wrong answer</Comment>
-      <Word>你是</Word>
+      <Word>的</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="QUESTION_6">
       <Word>“塞尔达”是男孩的名字，还是女孩的名字？</Word>
