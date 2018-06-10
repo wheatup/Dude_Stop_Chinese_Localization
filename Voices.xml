@@ -663,8 +663,8 @@ CTRL+Z?</Text>
     <VoiceEntry GUID="b6da94c0-6c50-9278-0da8-a678fd5fd195" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>如果你把最后一个给解决好了，
-我会奖励你一个蛋糕</Text>
+          <Text>如果你在上一个谜题表现好的话，
+你现在已经得到一个蛋糕了</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
