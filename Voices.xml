@@ -1859,7 +1859,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
 你应该在上一个界面等我的！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="20">
-          <Text>*哎*好吧，我给你建一个新花瓶
+          <Text>*哎*好吧，我给你画一个新花瓶
 别在我允许的情况下继续</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="21">
@@ -2193,7 +2193,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="0c0fb064-9a0a-34a9-6291-7f73b0449a5d" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>看，我给你画了一个新花瓶，和保证的一样</Text>
+          <Text>看，我给你画了一个新花瓶，我答应过你的</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2228,7 +2228,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>但是它
+          <Text>但是电子书
 闻起来
 不像纸</Text>
         </VoiceEnding>
@@ -2249,7 +2249,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="ea8a478c-7262-4d9d-1b9d-85d9ae0c72f6" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>新花瓶也遭殃了</Text>
+          <Text>那个新花瓶在里面呢</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
