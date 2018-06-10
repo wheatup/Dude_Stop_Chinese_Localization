@@ -450,7 +450,7 @@
       <comment>100% bad, </comment>
       <titleAcquired>无意义的奖杯</titleAcquired>
       <titleNotAcquired>不必要的奖杯</titleNotAcquired>
-      <descriptionAcquired>根本没任何意义，但是你还是做到了。 &lt;b&gt;恭喜你&lt;/b&gt; 浪费了时间来获得一个画的不好的收集品！</descriptionAcquired>
+      <descriptionAcquired>根本没任何意义，但是你还是做到了。 &lt;b&gt;恭喜你&lt;/b&gt; 浪费了时间来获得一个丑了吧唧的收集品！</descriptionAcquired>
       <descriptionNotAcquired>你不会需要它的
 跳过它吧
 没它你也能活的好好的，相信我</descriptionNotAcquired>
@@ -575,7 +575,7 @@
       <titleAcquired>终极奖杯</titleAcquired>
       <titleNotAcquired>终极奖杯</titleNotAcquired>
       <descriptionAcquired />
-      <descriptionNotAcquired>游戏结束！朋友！结束了！/descriptionNotAcquired>
+      <descriptionNotAcquired>游戏结束！朋友！结束了！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="75">

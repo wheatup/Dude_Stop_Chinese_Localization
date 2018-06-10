@@ -381,7 +381,7 @@
       <Word>扩展包 (#)</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="LAST_PACK">
-      <Word>上一个扩展包</Word>
+      <Word>最后的扩展包</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="END">
       <Word>结局</Word>
@@ -661,7 +661,7 @@
       <Word>2小时前</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="INTRO_SUBJECT_17">
-      <Word>测试体17
+      <Word>测试者17
 请用心</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="TIP">
@@ -1179,31 +1179,31 @@ next lines (any number) - list of options to choose from</Comment>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE1">
       <Comment>can be translated</Comment>
-      <Word>LateTree.bad.s</Word>
+      <Word>延迟圣诞树.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE2">
       <Comment>can be translated</Comment>
-      <Word>MorningNoise.bad.s</Word>
+      <Word>清晨的噪音.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE3">
       <Comment>can be translated</Comment>
-      <Word>MissedHand.bad.s</Word>
+      <Word>绝不放在手里.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE4">
       <Comment>can be translated</Comment>
-      <Word>Littering.bad.s</Word>
+      <Word>乱丢杂物.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE5">
       <Comment>can be translated</Comment>
-      <Word>EgoPowerSupply.bad.s</Word>
+      <Word>自私的插头.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE6">
       <Comment>can be translated</Comment>
-      <Word>ChocolateWaste.bad.s</Word>
+      <Word>浪费巧克力.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_PUZZLE7">
       <Comment>can be translated</Comment>
-      <Word>CouldHaveSolvedItNormallyButNoooYouNeedToBeA.bad.s</Word>
+      <Word>明明可以好好地玩但是你偏要当个小贱人.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADING">
       <Word>正在上传所选的解决方案</Word>
@@ -1275,8 +1275,8 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>结束这一切吧</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="LAST_CUP_SIGN">
-      <Word>测试已经
-结束了</Word>
+      <Word>测试
+已结束</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_VIEW_LAST_MSG">
       <Word>查看最后的信息</Word>
@@ -1428,9 +1428,9 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>蚊子校正</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="END_NOTE">
-      <Word>本游戏基于Ludum Dare 33，主题：tiny glitchy game，
-但受网络影响，我们决定将它扩展为一个完整的游戏。
-感谢网络！非常感谢！不然我就跑去玩别的游戏了！
+      <Word>本游戏基于Ludum Dare第33届比赛开发，主题：《tiny glitchy game》
+但受到网上大家的鼓励，我们决定将它扩展为一个完整的游戏。
+感谢大家！非常感谢！不然我就跑去玩别的游戏了！
 哦，还有感谢我的朋友家人啥的……</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="TESTERS">
@@ -1452,7 +1452,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>Two Halfs of a Beard</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
-      <Word>测试体 #17. Dude, Stop ©</Word>
+      <Word>测试者#17. Dude, Stop ©</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="EXITING">
       <Word>正在退出</Word>
