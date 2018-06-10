@@ -51,7 +51,7 @@
       <Word>考试</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="TEST_TO">
-      <Word>看看你有多老</Word>
+      <Word>暴露年龄的测试</Word>
     </TextEntry>
     <TextEntry Theme="EXAM_PACK" ID="QUESTION_1">
       <Word>以下哪个选项是正确的？</Word>

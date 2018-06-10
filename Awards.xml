@@ -11,257 +11,257 @@
   <EntryList>
     <AwardEntry index="2">
       <comment>Bad cup, Cup from a trash can</comment>
-      <titleAcquired>Trash cup</titleAcquired>
-      <titleNotAcquired>A trophy</titleNotAcquired>
-      <descriptionAcquired>I suggest you wash your hands after touching it.</descriptionAcquired>
-      <descriptionNotAcquired>Finish the pack to get it.</descriptionNotAcquired>
+      <titleAcquired>垃圾奖杯</titleAcquired>
+      <titleNotAcquired>一个奖杯</titleNotAcquired>
+      <descriptionAcquired>我建议你在碰过这个奖杯之后洗个手。</descriptionAcquired>
+      <descriptionNotAcquired>完成本拓展包来获得。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="68">
       <comment>For completing first pack three times</comment>
-      <titleAcquired>Flashback trophy</titleAcquired>
+      <titleAcquired>回忆杀奖杯</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>Remember that moment when you completed the first pack 3 times for absolutely no reason? Well, this cup serves as a reminder.</descriptionAcquired>
+      <descriptionAcquired>还记得你莫名其妙把第一个扩展包玩了3次吗？这个奖杯就是用来提醒你这件事的。</descriptionAcquired>
       <descriptionNotAcquired />
-      <shortDescriptionAcquired>Stop coming here!</shortDescriptionAcquired>
+      <shortDescriptionAcquired>别来这里了！</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="4">
       <comment>Bad cup, Rusty rombus, broken</comment>
-      <titleAcquired>Broken cup</titleAcquired>
-      <titleNotAcquired>A rhombus?</titleNotAcquired>
-      <descriptionAcquired>How do you feel seeing those missing pieces and knowing you can't solve it, ever? Any discomfort? Stress? A sore throat? That's good. It means it's working.</descriptionAcquired>
-      <descriptionNotAcquired>Finish the jigsaw puzzle to unlock this.</descriptionNotAcquired>
+      <titleAcquired>损坏的奖杯</titleAcquired>
+      <titleNotAcquired>一个菱形？</titleNotAcquired>
+      <descriptionAcquired>眼巴巴的看着那些丢失的拼图却知道你完不成它是一种什么样的体验？失落？伤心？蓝瘦？香菇？很好，证明这还是有点用的。</descriptionAcquired>
+      <descriptionNotAcquired>完成拼图谜题来解锁。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="5">
       <comment>Good cup, Golden rombus that you combine from pieces</comment>
-      <titleAcquired>Swedish cup</titleAcquired>
-      <titleNotAcquired>B rhombus!</titleNotAcquired>
-      <descriptionAcquired>Not related to Sweden.</descriptionAcquired>
-      <descriptionNotAcquired>Finish the jigsaw puzzle to unlock this.</descriptionNotAcquired>
+      <titleAcquired>瑞典奖杯</titleAcquired>
+      <titleNotAcquired>另一个菱形！</titleNotAcquired>
+      <descriptionAcquired>其实和瑞典没什么关系。</descriptionAcquired>
+      <descriptionNotAcquired>完成拼图谜题来解锁。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="6">
       <comment>Bad cup, Tiny metal cup</comment>
-      <titleAcquired>Tiny cup</titleAcquired>
-      <titleNotAcquired>Bad cup</titleNotAcquired>
-      <descriptionAcquired>I mean, it's perfectly alright to have a small cup.</descriptionAcquired>
-      <descriptionNotAcquired>This is here for testing purposes only.</descriptionNotAcquired>
+      <titleAcquired>微型奖杯</titleAcquired>
+      <titleNotAcquired>坏奖杯</titleNotAcquired>
+      <descriptionAcquired>有个小奖杯也不是什么坏事。</descriptionAcquired>
+      <descriptionNotAcquired>仅用于测试。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="7">
       <comment>Good cup, Long golden cup</comment>
-      <titleAcquired>A long one</titleAcquired>
-      <titleNotAcquired>Good cup</titleNotAcquired>
-      <descriptionAcquired>This should boost your self-esteem.</descriptionAcquired>
-      <descriptionNotAcquired>Go get it, tiger!</descriptionNotAcquired>
+      <titleAcquired>长奖杯</titleAcquired>
+      <titleNotAcquired>好奖杯</titleNotAcquired>
+      <descriptionAcquired>不怕你骄傲。</descriptionAcquired>
+      <descriptionNotAcquired>去获得它！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="30">
       <comment>For smashing domino too strong, domino piece</comment>
-      <titleAcquired>Domino</titleAcquired>
-      <titleNotAcquired>Domino</titleNotAcquired>
-      <descriptionAcquired>You absolutely wrecked 'em! Don't get me wrong - it's still wrong to do it like that, but still a whole lot of fun.</descriptionAcquired>
-      <descriptionNotAcquired>An achievement reward! Go &lt;b&gt;somewhere&lt;/b&gt;, do &lt;b&gt;something&lt;/b&gt; and you will certainly get it. Get it?</descriptionNotAcquired>
-      <shortDescriptionAcquired>Do the flip</shortDescriptionAcquired>
+      <titleAcquired>多米诺</titleAcquired>
+      <titleNotAcquired>多米诺</titleNotAcquired>
+      <descriptionAcquired>排山倒海！别误会，这么做是不对的，虽然做起来还是很有趣的。</descriptionAcquired>
+      <descriptionNotAcquired>完成一个成就获得这个奖励！去&lt;b&gt;某个地方&lt;/b&gt;，做&lt;b&gt;某件事&lt;/b&gt;，然后你就能获得它。懂了没？</descriptionNotAcquired>
+      <shortDescriptionAcquired>前滚翻</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="72">
       <comment>For putting postmark perfectly</comment>
-      <titleAcquired>Rarest postmark</titleAcquired>
-      <titleNotAcquired>Postmark</titleNotAcquired>
-      <descriptionAcquired>Your sticking was on point!</descriptionAcquired>
-      <descriptionNotAcquired>Lick it and stick it.</descriptionNotAcquired>
+      <titleAcquired>最稀有的邮票</titleAcquired>
+      <titleNotAcquired>邮票</titleNotAcquired>
+      <descriptionAcquired>贴的刚刚好！</descriptionAcquired>
+      <descriptionNotAcquired>舔一舔，贴一贴。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="31">
       <comment>100% bad, wooden cup</comment>
-      <titleAcquired>Wooden league</titleAcquired>
-      <titleNotAcquired>For being the worst</titleNotAcquired>
-      <descriptionAcquired>You are so bad that you don't deserve even a metal trophy. Here's a chunk of wood.</descriptionAcquired>
-      <descriptionNotAcquired>BREAK EVERYTHING!! Rawr!</descriptionNotAcquired>
+      <titleAcquired>木头段位</titleAcquired>
+      <titleNotAcquired>送给最差的你</titleNotAcquired>
+      <descriptionAcquired>你玩的太烂了，金属奖杯不适合你，给块木头意思一下就好了。</descriptionAcquired>
+      <descriptionNotAcquired>毁灭，一切！嗷！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="32">
       <comment>100% good, tiny long cup</comment>
-      <titleAcquired>Long cup's little brother</titleAcquired>
-      <titleNotAcquired>For being the best</titleNotAcquired>
-      <descriptionAcquired>Half the size, twice the result.</descriptionAcquired>
-      <descriptionNotAcquired>DO NOT BREAK EVERYTHING!</descriptionNotAcquired>
+      <titleAcquired>长奖杯的小弟</titleAcquired>
+      <titleNotAcquired>送给最优秀的你</titleNotAcquired>
+      <descriptionAcquired>杯半功倍！</descriptionAcquired>
+      <descriptionNotAcquired>别搞砸所有事情就行！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="22">
       <comment>Bad cup, Hat from a Bistro Restoran</comment>
-      <titleAcquired>Low-wage hat</titleAcquired>
-      <titleNotAcquired>"F"</titleNotAcquired>
-      <descriptionAcquired>The sorting hat has spoken: McDUFFLEPUFF.</descriptionAcquired>
-      <descriptionNotAcquired>is for Failure.</descriptionNotAcquired>
+      <titleAcquired>搬砖狗奖杯</titleAcquired>
+      <titleNotAcquired>"挂科"</titleNotAcquired>
+      <descriptionAcquired>帽子好像在说：醒醒，起来搬砖了！</descriptionAcquired>
+      <descriptionNotAcquired>失败品</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="23">
       <comment>Good cup, Hat from a University graduation</comment>
-      <titleAcquired>Mortib... something hat</titleAcquired>
-      <titleNotAcquired>Goal of education</titleNotAcquired>
-      <descriptionAcquired>It feels heavy. Probably because of the crippling debt.
-[Europeans, you may not understand this joke. Also, it's not a joke. Send hu-MONEY-tary help]</descriptionAcquired>
-      <descriptionNotAcquired>Your ticket to the future... packs!</descriptionNotAcquired>
+      <titleAcquired>毕业帽</titleAcquired>
+      <titleNotAcquired>教育的意义</titleNotAcquired>
+      <descriptionAcquired>感觉有点沉，也许是因为欠了一屁股债的原因吧。
+[欧洲人，如果你不懂这个笑话的话……其实这不算是笑话，请求人道主义援助！]</descriptionAcquired>
+      <descriptionNotAcquired>你的未来（的扩展包）的通行证！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="56">
       <comment>100% bad, Chocolate medal</comment>
-      <titleAcquired>A medal with raisins</titleAcquired>
-      <titleNotAcquired>Lost cause</titleNotAcquired>
-      <descriptionAcquired>Something for you to eat instead of glue.</descriptionAcquired>
-      <descriptionNotAcquired>Booooorn to beee duUUUumb!</descriptionNotAcquired>
+      <titleAcquired>镶着葡萄干的奖牌</titleAcquired>
+      <titleNotAcquired>失败的话</titleNotAcquired>
+      <descriptionAcquired>奖牌哪有吃的实在</descriptionAcquired>
+      <descriptionNotAcquired>生来愚蠢！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="63">
       <comment>Finish pack in 15 sec, Golden star</comment>
-      <titleAcquired>Gone in 20 seconds</titleAcquired>
-      <titleNotAcquired>No time to explain</titleNotAcquired>
-      <descriptionAcquired>You skipped through them faster than through any license agreement.</descriptionAcquired>
-      <descriptionNotAcquired>Let's go, in and out, twenty second exam!</descriptionNotAcquired>
+      <titleAcquired>20秒速答</titleAcquired>
+      <titleNotAcquired>没时间解释了</titleNotAcquired>
+      <descriptionAcquired>你点下一页的速度比点跳过任何一个用户协议的速度还要快。</descriptionAcquired>
+      <descriptionNotAcquired>上吧，抢答，20秒搞定！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="10">
       <comment>Bad cup, Cup with a spoiler text</comment>
-      <titleAcquired>Spoiler cup</titleAcquired>
-      <titleNotAcquired>An unwanted gift</titleNotAcquired>
-      <descriptionAcquired>A gift that keeps on giving.
+      <titleAcquired>剧透奖杯</titleAcquired>
+      <titleNotAcquired>意料之外</titleNotAcquired>
+      <descriptionAcquired>不请自来的礼物
 
-Btw, &lt;color=white&gt;!! SPOILER ALERT !!&lt;/color&gt;</descriptionAcquired>
-      <descriptionNotAcquired>You will never see it coming.</descriptionNotAcquired>
+顺便一提，&lt;color=white&gt;!! 剧透一时爽，全家…… !!&lt;/color&gt;</descriptionAcquired>
+      <descriptionNotAcquired>意料之外</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="11">
       <comment>Good cup, Cup from pieces</comment>
-      <titleAcquired>Blocky cup</titleAcquired>
-      <titleNotAcquired>Blocky cup</titleNotAcquired>
-      <descriptionAcquired>Build it yourself. And don't worry, this is not a competition.
+      <titleAcquired>方方的奖杯</titleAcquired>
+      <titleNotAcquired>方方的奖杯</titleNotAcquired>
+      <descriptionAcquired>自己做的奖杯。别担心，这不是什么比赛。
 
-Or is it?</descriptionAcquired>
-      <descriptionNotAcquired>A suspicious shape. What could it be?</descriptionNotAcquired>
+是吗？</descriptionAcquired>
+      <descriptionNotAcquired>很可疑的形状，会是什么呢？</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="33">
       <comment>For cutting pizza in 11 pieces, cup is a pizza cutter</comment>
-      <titleAcquired>Eleven</titleAcquired>
+      <titleAcquired>十一</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>You did 11 pieces in 4 cuts. Are you like a mathematical genius or something? Or just pizza samurai.</descriptionAcquired>
+      <descriptionAcquired>你用4刀把一个披萨切成了11块，莫非您就是传说中的数学天才？或者只是个披萨武士？</descriptionAcquired>
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="34">
       <comment>100% bad, Pet Rock</comment>
-      <titleAcquired>The Rock</titleAcquired>
-      <titleNotAcquired>Bad cup 2: Return of the bad</titleNotAcquired>
-      <descriptionAcquired>There are many kinds of pet rocks: hard rocks, glam rocks, soft rocks... and none of them are minerals!</descriptionAcquired>
-      <descriptionNotAcquired>Like a broken record...</descriptionNotAcquired>
+      <titleAcquired>石头</titleAcquired>
+      <titleNotAcquired>坏奖杯2:坏人有坏报</titleNotAcquired>
+      <descriptionAcquired>石头有很多种，硬石头，漂亮的石头，软石头，但都不含矿！</descriptionAcquired>
+      <descriptionNotAcquired>破破烂烂的奖励...</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="35">
       <comment>100% good, boring golden one</comment>
-      <titleAcquired>Golden cup</titleAcquired>
-      <titleNotAcquired>Pure good</titleNotAcquired>
-      <descriptionAcquired>Gold is a chemical element with symbol Au and atomic number 79. In its purest form, it is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal.</descriptionAcquired>
-      <descriptionNotAcquired>The best of the best of the bestest</descriptionNotAcquired>
+      <titleAcquired>金质奖杯</titleAcquired>
+      <titleNotAcquired>完美</titleNotAcquired>
+      <descriptionAcquired>金的化学符号是Au，周期表排79位。纯净的金是一种闪亮，略带红的黄色，高密度，柔软，可溶解，高延展性的金属。 </descriptionAcquired>
+      <descriptionNotAcquired>最好中的最好中的最好的</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="73">
       <comment>Place crayons upside down</comment>
-      <titleAcquired>White crayons</titleAcquired>
-      <titleNotAcquired>The Upside Down</titleNotAcquired>
-      <descriptionAcquired>It's like a box of chocolates - you never know what you're gonna get. Except you do - a crayon. White, useless and not tasty at all. Sometimes upside down.</descriptionAcquired>
+      <titleAcquired>白色蜡笔</titleAcquired>
+      <titleNotAcquired>上下颠倒了</titleNotAcquired>
+      <descriptionAcquired>这就像一盒巧克力，你永远不知道你会得到什么。事实上你知道，一根蜡笔，白色的，一无是处，味道也不怎么样，有时候还放倒了。</descriptionAcquired>
       <descriptionNotAcquired>Reverse stacking</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="64">
       <comment>For cutting crust off, Cup is Pineapple</comment>
-      <titleAcquired>CRUST IS LAVA!</titleAcquired>
+      <titleAcquired>披萨边就是辣鸡</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>You eat it.</descriptionAcquired>
+      <descriptionAcquired>你给我吃了它</descriptionAcquired>
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="65">
       <comment>Cut pizza and avoid all the meat pieces, cup is a pizza slice as a necklace</comment>
-      <titleAcquired>I wish you no ham</titleAcquired>
+      <titleAcquired>你不吃肉的吗</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>Don't play minesweeper with your food! Or is it salamisweeper? DING!</descriptionAcquired>
+      <descriptionAcquired>吃个东西还要玩扫雷？还是说扫腊肠？叮！</descriptionAcquired>
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="66">
       <comment>Get a pizza achievements (not actual achievement, just write something about pizza)</comment>
-      <titleAcquired>Pizza mania</titleAcquired>
-      <titleNotAcquired>Pizza mania</titleNotAcquired>
+      <titleAcquired>披萨狂人</titleAcquired>
+      <titleNotAcquired>披萨狂人</titleNotAcquired>
       <descriptionAcquired />
-      <descriptionNotAcquired>Seize the cheese!</descriptionNotAcquired>
+      <descriptionNotAcquired>切好披萨！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="12">
       <comment>Bad cup, Pile of lemons</comment>
-      <titleAcquired>Lemon pile</titleAcquired>
-      <titleNotAcquired>Plan B</titleNotAcquired>
-      <descriptionAcquired>On a scale from A to F you get a healthy supply of vitamin C. </descriptionAcquired>
-      <descriptionNotAcquired>In case everything goes horribly wrong.</descriptionNotAcquired>
+      <titleAcquired>一堆柠檬</titleAcquired>
+      <titleNotAcquired>备选计划</titleNotAcquired>
+      <descriptionAcquired>从A-F，你选择了补充每日所需的维他命C！</descriptionAcquired>
+      <descriptionNotAcquired>万一你搞砸了一切……</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="13">
       <comment>Good cup, Chocolate cake</comment>
-      <titleAcquired>Cake cup</titleAcquired>
-      <titleNotAcquired>Looks like a cake</titleNotAcquired>
-      <descriptionAcquired>Mmmmm... cake!</descriptionAcquired>
-      <descriptionNotAcquired>I wonder, if it's a chocolate one? Or an ice cream one?
-Well, solve everything to find out!</descriptionNotAcquired>
+      <titleAcquired>蛋糕奖杯</titleAcquired>
+      <titleNotAcquired>看起来像蛋糕</titleNotAcquired>
+      <descriptionAcquired>嗯嗯嗯～蛋糕！</descriptionAcquired>
+      <descriptionNotAcquired>你觉得它是巧克力做的还是冰淇淋做的？
+看来只有解决所有谜题才能知道了！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="36">
       <comment>All cat puzzle good, cup is a mouse toy</comment>
-      <titleAcquired>Squeaky mouse</titleAcquired>
-      <titleNotAcquired>Squeaky cup</titleNotAcquired>
-      <descriptionAcquired>Pamper your good cat by giving them a plush mouse!
+      <titleAcquired>老鼠玩具</titleAcquired>
+      <titleNotAcquired>可以捏着玩的奖杯</titleNotAcquired>
+      <descriptionAcquired>用一只毛绒玩具老鼠好好宠爱你的猫咪！
 
-I mean, I think it's a plush... please let it be a plush!
-(For being nice in all cat puzzles)</descriptionAcquired>
-      <descriptionNotAcquired>A toy for a good cat.</descriptionNotAcquired>
+嗯……我希望它是毛绒的，告诉我它是毛绒的！
+（在所有猫咪谜题中表现良好）</descriptionAcquired>
+      <descriptionNotAcquired>给乖猫咪的玩具</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="37">
       <comment>All dog puzzles good, cup is a bone</comment>
-      <titleAcquired>Bone</titleAcquired>
-      <titleNotAcquired>The treat</titleNotAcquired>
-      <descriptionAcquired>A bone appétit!
-(For being nice in all doggy puzzles)</descriptionAcquired>
-      <descriptionNotAcquired>Who's a good doggy? Now who's a good doggy?</descriptionNotAcquired>
+      <titleAcquired>骨头</titleAcquired>
+      <titleNotAcquired>狗喜欢的</titleNotAcquired>
+      <descriptionAcquired>五骨杂粮
+（在所有狗狗谜题中表现良好）</descriptionAcquired>
+      <descriptionNotAcquired>谁是好狗狗？谁是好狗狗呀？</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="38">
       <comment>All dog puzzles bad, looks like a medical cone on a dog</comment>
-      <titleAcquired>Cone of shame</titleAcquired>
-      <titleNotAcquired>The punishment</titleNotAcquired>
-      <descriptionAcquired>For your own g... bad!
-(For being bad in all dog puzzles)</descriptionAcquired>
-      <descriptionNotAcquired>Bad dog! No biscuit!</descriptionNotAcquired>
+      <titleAcquired>羞愧之筒</titleAcquired>
+      <titleNotAcquired>惩罚</titleNotAcquired>
+      <descriptionAcquired>这是你应得的
+（在所有狗狗谜题中表现差）</descriptionAcquired>
+      <descriptionNotAcquired>坏狗狗！没饼干给你了！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="39">
       <comment>All cat puzzle bad, cup is a water spraying bottle</comment>
-      <titleAcquired>Water spray</titleAcquired>
-      <titleNotAcquired>A bottle cup</titleNotAcquired>
-      <descriptionAcquired>Spray your cats today!
-For low-low price of ruined puzzles, you get to punish your animal! 
-(For being bad in all cat puzzles)</descriptionAcquired>
-      <descriptionNotAcquired>Insert missing word:
-When cats are bad, _____ _____ _____ .</descriptionNotAcquired>
+      <titleAcquired>喷水瓶</titleAcquired>
+      <titleNotAcquired>一个瓶状奖杯</titleNotAcquired>
+      <descriptionAcquired>喷你家猫一脸！
+谜题中表现的这么差，得好好教训你的宠物！
+（在所有猫咪谜题中表现差）</descriptionAcquired>
+      <descriptionNotAcquired>请填空：
+当猫咪不乖的时候，_______________ 。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="40">
       <comment>Wet cat on a book</comment>
-      <titleAcquired>Dripping cat</titleAcquired>
-      <titleNotAcquired>Something-something cat</titleNotAcquired>
-      <descriptionAcquired>Two cups of water, one cat and voila. But no more than two voila.
-[No animals were harmed during the creation of this videogame. Except chicken. Delicious-delicious chicken.]</descriptionAcquired>
-      <descriptionNotAcquired>When you're in the wrong place at the wrong time.</descriptionNotAcquired>
+      <titleAcquired>湿答答的猫</titleAcquired>
+      <titleNotAcquired>和猫有关</titleNotAcquired>
+      <descriptionAcquired>两杯水，一只猫，当当当党！
+[本游戏创作过程中没有动物受伤，除了鸡，美味的鸡。]</descriptionAcquired>
+      <descriptionNotAcquired>当你在错误的时间出现在错误的地点。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="14">
@@ -451,8 +451,8 @@ I don't wanna stop at all"</descriptionNotAcquired>
       <titleAcquired>Pointless cup</titleAcquired>
       <titleNotAcquired>Unnecessary cup</titleNotAcquired>
       <descriptionAcquired>There was no need, but you still did it. &lt;b&gt;Congratulations&lt;/b&gt; on wasting your time on a badly drawn collectable!</descriptionAcquired>
-      <descriptionNotAcquired>You don't need it at all. 
-Just skip it. 
+      <descriptionNotAcquired>You don't need it at all.
+Just skip it.
 You'll be fine without it, I promise.</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
