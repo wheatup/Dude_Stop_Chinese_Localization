@@ -1428,10 +1428,10 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>蚊子校正</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="END_NOTE">
-      <Word>The game is based on the LD33 tiny glitchy game,
-but after Internet reaction expanded to a full game.
-Thanks internet! Much thanks!! I could have played games instead!!!
-...oh, and thanks to our friends and families or something, idk.</Word>
+      <Word>本游戏基于Ludum Dare 33，主题：tiny glitchy game，
+但受网络影响，我们决定将它扩展为一个完整的游戏。
+感谢网络！非常感谢！不然我就跑去玩别的游戏了！
+哦，还有感谢我的朋友家人啥的……</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="TESTERS">
       <Word>测试</Word>
