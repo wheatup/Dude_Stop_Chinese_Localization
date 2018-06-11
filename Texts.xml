@@ -118,7 +118,7 @@
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONFIRM">
       <Word>同意你是一个
-&lt;color=red&gt;怪物&lt;/color&gt;
+&lt;color=red&gt;禽兽&lt;/color&gt;
 并且想退出游戏</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="NO">
