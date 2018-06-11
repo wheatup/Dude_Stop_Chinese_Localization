@@ -770,7 +770,7 @@
       <Comment>Status text should be:
 message... 0%
 meaning, that after message should be three dots and then 0% number</Comment>
-      <Word>Rebooting &lt;color=white&gt;D.U.C.K.&lt;/color&gt;.. &lt;color=white&gt;0%&lt;/color&gt;</Word>
+      <Word>重启&lt;color=white&gt;D.U.C.K.&lt;/color&gt;.. &lt;color=white&gt;0%&lt;/color&gt;</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_7">
       <Comment>Status</Comment>
