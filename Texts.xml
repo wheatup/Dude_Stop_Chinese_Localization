@@ -408,7 +408,7 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_QUESTION">
       <Comment>say/pronaunce. Do not translate GIF word</Comment>
-      <Word>豆腐脑是甜的还是咸的？</Word>
+      <Word>GIF到底怎么念？</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_ON">
       <Comment>bomb is on/activated. lower case. Short.</Comment>
@@ -416,11 +416,11 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_GIF">
       <Comment>can be translated.</Comment>
-      <Word>[甜的]</Word>
+      <Word>[gif]</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_JIF">
       <Comment>can be translated.</Comment>
-      <Word>[咸的]</Word>
+      <Word>[jif]</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-20">
       <Comment>show this at 80% capacity</Comment>
