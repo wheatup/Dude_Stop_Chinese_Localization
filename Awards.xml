@@ -91,9 +91,9 @@
     </AwardEntry>
     <AwardEntry index="22">
       <comment>Bad cup, Hat from a Bistro Restoran</comment>
-      <titleAcquired>搬砖狗奖杯</titleAcquired>
+      <titleAcquired>打工狗奖杯</titleAcquired>
       <titleNotAcquired>"挂科"</titleNotAcquired>
-      <descriptionAcquired>帽子好像在说：醒醒，起来搬砖了！</descriptionAcquired>
+      <descriptionAcquired>帽子好像在说：醒醒，起来炸鸡了！</descriptionAcquired>
       <descriptionNotAcquired>失败品</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -128,7 +128,7 @@
       <titleNotAcquired>意料之外</titleNotAcquired>
       <descriptionAcquired>不请自来的礼物
 
-顺便一提，&lt;color=white&gt;!! 剧透一时爽，全家…… !!&lt;/color&gt;</descriptionAcquired>
+顺便一提，&lt;color=white&gt;剧透一时爽，全家……&lt;/color&gt;</descriptionAcquired>
       <descriptionNotAcquired>意料之外</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -154,7 +154,7 @@
       <comment>100% bad, Pet Rock</comment>
       <titleAcquired>石头</titleAcquired>
       <titleNotAcquired>坏奖杯2:坏人有坏报</titleNotAcquired>
-      <descriptionAcquired>石头有很多种，硬石头，漂亮的石头，软石头，但都不含矿！</descriptionAcquired>
+      <descriptionAcquired>石头有很多种，硬石头，漂亮的石头，软石头，但都不含矿物！</descriptionAcquired>
       <descriptionNotAcquired>破破烂烂的奖励...</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -170,7 +170,7 @@
       <comment>Place crayons upside down</comment>
       <titleAcquired>白色蜡笔</titleAcquired>
       <titleNotAcquired>上下颠倒了</titleNotAcquired>
-      <descriptionAcquired>这就像一盒巧克力，你永远不知道你会得到什么。事实上你知道，一根蜡笔，白色的，一无是处，味道也不怎么样，有时候还放倒了。</descriptionAcquired>
+      <descriptionAcquired>这就像一盒巧克力，你永远不知道你会得到什么。事实上你知道，一根蜡笔，白色的，一无是处，味道也不怎么样，有时候还放反了。</descriptionAcquired>
       <descriptionNotAcquired>Reverse stacking</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -374,7 +374,7 @@
     <AwardEntry index="19">
       <comment>Good cup, Robocup</comment>
       <titleAcquired>机器杯</titleAcquired>
-      <titleNotAcquired>进化的奖杯</titleNotAcquired>
+      <titleNotAcquired>进击的奖杯</titleNotAcquired>
       <descriptionAcquired>为了不侵权，我们这能做到这一步了</descriptionAcquired>
       <descriptionNotAcquired>这个奖杯也许是破损了，但是我们能修好它</descriptionNotAcquired>
       <shortDescriptionAcquired />

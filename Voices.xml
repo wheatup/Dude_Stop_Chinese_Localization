@@ -16,9 +16,9 @@
           <Comment>BAD END, Text only.
 Each line - each line in the game. Add (w1) in front of a line, to delay that line for 1 (any number) second
 Always cups in the game.</Comment>
-          <Text>可耻, 
-(w2)可耻, 
-(w2)可耻, 
+          <Text>可耻,
+(w2)可耻,
+(w2)可耻,
 (w2)可耻</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
@@ -30,7 +30,7 @@ Always cups in the game.</Comment>
           <Text>看在上帝的份上</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>6,5分不能更多了</Text>
+          <Text>6分，不，5分不能更多了</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
           <Text>简直可怕</Text>
@@ -787,7 +787,7 @@ CTRL+Z?</Text>
           <Text>嘿！玩家，能听到我说话吗？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>好的，试试调一下音量... 
+          <Text>好的，试试调一下音量...
 你能听到我说话是很重要的！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
@@ -869,7 +869,7 @@ CTRL+Z?</Text>
     <VoiceEntry GUID="fd76d4e3-e185-fc5b-0b3d-b710a79225b4" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Booga-booga-booga!... 
+          <Text>Booga-booga-booga!...
 好吧，抱歉，我不会这么做了</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
@@ -2319,8 +2319,8 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="56a00f7b-8a91-ad51-fb7e-eefe07b8bd09" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I've cut a picture into pieces
-That you will need to sort.</Text>
+          <Text>我把一张图片切成了小块
+你得把它们给拼好</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2328,10 +2328,10 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="93a8c1ee-b215-32b0-8b15-113fffe96539" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You've got 'em all.</Text>
+          <Text>你会收集齐的！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Now go and become the very best, a jigsaw master!</Text>
+          <Text>现在，上吧，你是要成为拼图王的男人！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2339,7 +2339,7 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="3e440c2f-e0b6-9990-7aee-15e3b5ac9645" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Wait, what?</Text>
+          <Text>等下，啥？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2347,7 +2347,7 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="858d75d6-5971-435f-5003-07de12f67055" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Huh?</Text>
+          <Text>哈？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2355,7 +2355,7 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="530bb19c-5c0d-e932-c5e5-8f83a0d89449" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>It's clearly not from here.</Text>
+          <Text>这里肯定是没有</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2363,7 +2363,7 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="c0e6bc3e-cf13-821b-c46f-44a382fecd78" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>20 jigsaw pieces, and it took you only this long to solve?</Text>
+          <Text>20块拼图，只要这点时间就解决了？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
@@ -2376,25 +2376,25 @@ That you will need to sort.</Text>
     <VoiceEntry GUID="19d897df-c6a0-5987-43fe-d853ba57241d" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Glasses indoor, huh? Classy.</Text>
+          <Text>室内戴墨镜？经典！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>I can't see
-The point</Text>
+          <Text>我不知道
+意义何在</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="1a6f59c9-e144-78bb-c15b-1d7b4f41036a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Okay, this one just came in for you.
-Assembly required, batteries not included.</Text>
+          <Text>好的，这一个就是为你量身定制的
+需要重组，无需电池供应</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>And be sure to not leave any extra pieces!
-*holding a laugh*</Text>
+          <Text>确保别留下多余的碎片哟！
+*憋住笑*</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2403,16 +2403,16 @@ Assembly required, batteries not included.</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You've assembled a
-Swedish cup</Text>
+          <Text>你组装了一个
+瑞典奖杯</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="6a651faf-1ab0-7e6b-9fe7-06904cc529fd" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>There is your cup.
-I'm surprised it's still in one piece.</Text>
+          <Text>给你奖杯
+我很惊讶居然这玩意还完好无损</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2420,20 +2420,20 @@ I'm surprised it's still in one piece.</Text>
     <VoiceEntry GUID="0e558c59-91ff-9c86-0457-c53a5482e79f" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Here's your cup, except now it suits you better.</Text>
+          <Text>奖杯给你吧，现在它和你更般配了</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You've done it. It's a
-Broken cup</Text>
+          <Text>搞定了？这是个
+破奖杯</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="fb622566-c817-e51a-bd95-87d9ba205fd2" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ha! Clumsy you!</Text>
+          <Text>哈！手滑了？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2441,7 +2441,7 @@ Broken cup</Text>
     <VoiceEntry GUID="84a6b6cb-2be8-4b9d-bc59-b2fb2ac58c58" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Uh-oh, it doesn't look good!</Text>
+          <Text>啊哦，看起来不太妙哦！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2449,13 +2449,13 @@ Broken cup</Text>
     <VoiceEntry GUID="a25fc955-922f-43bb-b9bd-c34ab22a626b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>...aaand BAM! Ha-ha-ha!</Text>
+          <Text>...然后，哐当！哈哈哈！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>As if it was scripted!</Text>
+          <Text>简直就像设计好的一样</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Come on, one more click!</Text>
+          <Text>来呀，再点一下</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2463,7 +2463,7 @@ Broken cup</Text>
     <VoiceEntry GUID="10e89eb1-bf61-f0ba-d156-09e15671be3d" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Let's start simple! Should be an easy solution for you!</Text>
+          <Text>从简单的开始，这个应该难不倒你</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2471,34 +2471,34 @@ Broken cup</Text>
     <VoiceEntry GUID="a1fdf1d3-a48e-2d62-c048-869a815e3ec8" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Oh, so this is a hard puzzle for you?!</Text>
+          <Text>哦，对你来说太难了？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>...What a great start.</Text>
+          <Text>...真是个好开始</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>False start</Text>
+          <Text>错误的开始</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="0433d2a4-a498-ed36-56fe-3aa4a75564a2" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Finally! Let's go!</Text>
+          <Text>终于！来吧！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Good start!</Text>
+          <Text>很好的开始！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="fdc7f6f4-6e1f-13d7-cb2a-cf602b399e6b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ok, let's try again! Place it riiight there!</Text>
+          <Text>好的，再试一次，把它放在那里！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2506,7 +2506,7 @@ Broken cup</Text>
     <VoiceEntry GUID="22ec6412-ab6d-2c2b-3ef0-41b6612ffed2" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>There's your target - right in the corner</Text>
+          <Text>目标在那，刚好在那边角上</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2514,30 +2514,30 @@ Broken cup</Text>
     <VoiceEntry GUID="e6f6b154-8243-34d9-4016-d1e6ad370edd" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>But i've shown you the correct spot!</Text>
+          <Text>我都给你看过正确的位置了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>It's not here!</Text>
+          <Text>不是那里！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Or here!</Text>
+          <Text>这里吗</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>But right here! ...Gosh.</Text>
+          <Text>在这里，我的天</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(place)No
-No
-Yes</Text>
+          <Text>(place)不
+不
+是</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="cc351b5b-2df2-4cf9-9e3c-fe61b99b708f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You missed the spot!</Text>
+          <Text>你放错了！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2545,42 +2545,42 @@ Yes</Text>
     <VoiceEntry GUID="44a83a06-7de4-f221-5274-f45fedc2cc10" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That fits perfectly!</Text>
+          <Text>刚好合适！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding ID="sort_of" CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Sort of...</Text>
+          <Text>有点...</Text>
         </VoiceEnding>
         <VoiceEnding ID="amazing" CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Amazing!</Text>
+          <Text>厉害的！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="b627a46e-bd7b-b060-7daf-bd6e578b2d77" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You completed a side quest!</Text>
+          <Text>你完成了个支线任务！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Well, more like a... pointless task.</Text>
+          <Text>嗯，不如说是...毫无意义的任务</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>I don't know. Anyway!
-Here is your cup! </Text>
+          <Text>我也不懂了，算了
+给你奖杯吧</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>And just so you know - achievements and jigsaw pieces
-are saved automatically as you collect them.</Text>
+          <Text>提醒一下，成就和拼图碎片
+当你获得的时候会自动保存</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>So... even if you exit the pack, you'll still have them.</Text>
+          <Text>所以当你退出扩展包的时候，你依然会保留它们</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>With a sprinkle 
-of rewards</Text>
+          <Text>撒上一点
+奖励</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -2588,17 +2588,17 @@ of rewards</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You forgot to lick it</Text>
+          <Text>你忘记点它了</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Good aim</Text>
+          <Text>瞄的真准</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="7a18c1a7-e4c4-571f-5f37-8d338eb6f312" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ok, the letter was a good start!</Text>
+          <Text>好的，那封信是个好开场</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2606,8 +2606,8 @@ of rewards</Text>
     <VoiceEntry GUID="07b737c6-febe-a929-3e30-4d86546ca4ac" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You do know there is also a correct way
-to solve puzzles, right?</Text>
+          <Text>你知道还有一个正确方法
+来解决这个谜题，对吧？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2615,8 +2615,8 @@ to solve puzzles, right?</Text>
     <VoiceEntry GUID="35abacee-05e8-1ba1-4b77-28890c4e9d46" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>No idea how postage stamps work - fine.
-But you surely know about socks and sandals!!</Text>
+          <Text>你不知道邮票该怎么用？好吧
+但你总该知道怎么穿袜子和凉鞋吧？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2624,7 +2624,7 @@ But you surely know about socks and sandals!!</Text>
     <VoiceEntry GUID="329c7039-70f2-cd46-8d94-3f34dd1c3edc" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Please tell me you know how to wear sandals!</Text>
+          <Text>告诉我你知道怎么穿凉鞋！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2632,7 +2632,7 @@ But you surely know about socks and sandals!!</Text>
     <VoiceEntry GUID="819a222f-d381-b0f8-b621-6037aed7c490" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Noo, that's not how you wear them!</Text>
+          <Text>不！你不能这么穿！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2640,19 +2640,19 @@ But you surely know about socks and sandals!!</Text>
     <VoiceEntry GUID="f1a2879c-6141-02e1-8e32-259e3409f923" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Maybe in your country...</Text>
+          <Text>也许在你的国家吧...</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(w0.5)Not in mine</Text>
+          <Text>(w0.5)我的国家可不这样</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="82015fdf-acab-68ea-16f0-93db506ade04" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Hooray! I see you know the first rule of fashion!</Text>
+          <Text>好耶！看来你知道时髦的第一标准！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2661,17 +2661,17 @@ But you surely know about socks and sandals!!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Fashion police called</Text>
+          <Text>时尚警察要找你谈话了</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Perfect fit</Text>
+          <Text>完美搭配</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="d3f35b21-9f5e-2bb8-5be3-925355aa43d1" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Go on. Give it a little push!</Text>
+          <Text>来嘛，推一下下！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2679,7 +2679,7 @@ But you surely know about socks and sandals!!</Text>
     <VoiceEntry GUID="66814c1d-8d88-7e14-71f1-fd994c804f8d" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ever heard of a "butterly effect"?</Text>
+          <Text>听说过"蝴蝶效应"吗？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2687,41 +2687,41 @@ But you surely know about socks and sandals!!</Text>
     <VoiceEntry GUID="0213c1c2-f104-ded0-6832-fccdd08345f5" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That's the...</Text>
+          <Text>这是...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Wrong way.</Text>
+          <Text>错误的推法...</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(w0.5)Literally</Text>
+          <Text>(w0.5)名副其实</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="c401a75d-2c46-15fd-deb9-a189e6b0bb29" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I'm so excited!</Text>
+          <Text>我好兴奋啊！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>(w0.5)I just can't hide it</Text>
+          <Text>(w0.5)我忍不住了</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="4a7e0e4a-2c29-345c-94db-7d9891e4cdea" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Wow! Look at them go!
-I didn't know you could do that!</Text>
+          <Text>哇，看看它们倒下去的样子
+我不知道你还会这招</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Made a mess?
-Get a trophy!</Text>
+          <Text>弄得一团乱？
+获得一奖杯！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -2729,27 +2729,27 @@ Get a trophy!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Anticlimactic</Text>
+          <Text>真是虎头蛇尾</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>So satisfying</Text>
+          <Text>满足感爆棚</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Boop
-Boop
-Boop</Text>
+          <Text>啵
+啵
+啵</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="725669d6-1e14-48b3-fafb-934b05f206e9" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>FIY: It's not gonna change the ingame font - 
-I removed that feature,</Text>
+          <Text>顺便一提：这不会改变游戏的字体
+我移除了这个功能</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Because testers were choosing the wrong one
-and it was impossible to play after that</Text>
+          <Text>因为如果测试者选错字体的话
+之后的游戏就简直进行不下去了</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2757,7 +2757,7 @@ and it was impossible to play after that</Text>
     <VoiceEntry GUID="a0471562-1245-c8d5-605b-f14715331b5c" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Choose wisely.</Text>
+          <Text>三思哦</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2773,20 +2773,20 @@ and it was impossible to play after that</Text>
     <VoiceEntry GUID="d7eb69bb-6548-824e-6f5b-e5a9144db606" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>It's a really unpopular font, you know.</Text>
+          <Text>这个字体很恶俗的，你懂吗</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(w0.5)Therefore
-(w0.5)you're wrong</Text>
+          <Text>(w0.5)所以说
+(w0.5)你错了</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="0d4ffc07-fe6b-ea39-3015-c71303cf5f30" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Hm, I'm glad you have at least a smidge of taste.</Text>
+          <Text>哼，很高兴至少你还有那么一点点品味</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2795,22 +2795,22 @@ and it was impossible to play after that</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Wrong font
-(w0.5)Choose another one
-(w0.5)Please
-(w0.5)Anything else</Text>
+          <Text>不要这个字体
+(w0.5)选另一个
+(w0.5)求你了
+(w0.5)哪个都行</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Error:
-My eyes are bleeding</Text>
+          <Text>错误：
+我眼睛都要瞎了</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="ce09cdc7-60db-6520-1f58-745e65b31ae1" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Okay, this is the finish line!
-Just one more!</Text>
+          <Text>好吧，这是最后的考验了
+最后一个</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2818,7 +2818,7 @@ Just one more!</Text>
     <VoiceEntry GUID="d53cc1a2-c41c-c1fe-c8fc-bd8162844591" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>This is your last chance to be good!</Text>
+          <Text>这是你金盆洗手的最后一次机会</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2826,10 +2826,10 @@ Just one more!</Text>
     <VoiceEntry GUID="409ac26c-017c-0009-8f53-19b359e01d1f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>What a beauty!...</Text>
+          <Text>太美了...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Quickly! Film it!</Text>
+          <Text>快，把它录下来</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2837,29 +2837,29 @@ Just one more!</Text>
     <VoiceEntry GUID="469e6f00-b6e4-6f0f-ad6b-9e9e2fdedbf3" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Uhh, please don't upload it anywhere.</Text>
+          <Text>额，你可别把它上传到网上</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>i.e. delete it</Text>
+          <Text>建议你删了它</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="3839541f-ddc1-9da4-8ea3-c8983ff576bf" AllowedEndingType="Mixed">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Save it for your private collection.</Text>
+          <Text>你还是把它保存为你的个人收藏吧</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Your
-"Home Video"</Text>
+          <Text>你的
+"家庭录像"</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Oh my gosh!
-All the way!</Text>
+          <Text>天哪！
+太棒了！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -2867,25 +2867,25 @@ All the way!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>The aspect ration
-it burns</Text>
+          <Text>这个屏幕比例
+不堪入目</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Eww,
-watch it yourself!</Text>
+          <Text>噫
+你自己留着慢慢欣赏吧</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Share it</Text>
+          <Text>点分享</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Send it to me</Text>
+          <Text>记得发给我</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="93e8ec08-d401-57e9-3c3a-8526d7014434" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>No, FILM IT!</Text>
+          <Text>不，我让你录像！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2893,8 +2893,8 @@ watch it yourself!</Text>
     <VoiceEntry GUID="cdba764a-ca06-ca39-61d4-4b786ba14efa" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That's a photo! Which is nice, of course, 
-but you need to FILM IT!</Text>
+          <Text>这是张照片，虽然看起来还行，
+但是你得把它录下来！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2902,40 +2902,40 @@ but you need to FILM IT!</Text>
     <VoiceEntry GUID="d611b853-25e6-67f4-5e0a-b7a3331b9c5e" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Yes! Yessss!! That's how you're supposed to play!
-And for that you deserve a trophy!</Text>
+          <Text>没错！没错！你就应该这么玩游戏！
+鉴于此，你应该得到一个奖杯！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>I've sent it to you by mail, it should arrive shortly...</Text>
+          <Text>我用邮件发给你了，应该很快就能收到了...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Aaany minute now!</Text>
+          <Text>任何时间</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Where is it?</Text>
+          <Text>哪里去了？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>So, like... </Text>
+          <Text>那么，嗯...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
-          <Text>Am...</Text>
+          <Text>嗯...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="6">
-          <Text>*mouth farting noises*</Text>
+          <Text>*用嘴巴放屁声*</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="7">
-          <Text>How are you?</Text>
+          <Text>你最近咋样？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="8">
-          <Text>Eee... Have you played any good games recently?
-Some casual point-n-click puzzles, maybe, hm?</Text>
+          <Text>额...有玩什么好玩的游戏吗？
+比如鼠标点击解谜类游戏，嗯？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="9">
-          <Text>&lt;color=yellow&gt;[YOU'VE GOT MAIL]&lt;/color&gt;</Text>
+          <Text>&lt;color=yellow&gt;[您有一封新邮件]&lt;/color&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="10">
-          <Text>&lt;color=yellow&gt;[YOU'VE GOT MAIL]&lt;/color&gt;
-Ohthankgod. Open it!</Text>
+          <Text>&lt;color=yellow&gt;[您有一封新邮件]&lt;/color&gt;
+可算来了！快，打开它！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2943,7 +2943,7 @@ Ohthankgod. Open it!</Text>
     <VoiceEntry GUID="2e258038-7cfc-a532-150b-314eae2dd689" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>It's waaiiting for you!</Text>
+          <Text>它在等着你呢</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2951,7 +2951,7 @@ Ohthankgod. Open it!</Text>
     <VoiceEntry GUID="07f5173a-6914-95a2-57e3-91e9c6099601" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Wait, that's not it. There's something else! Keep going!</Text>
+          <Text>等一下，不是这个，里面还有东西，再找找</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2959,7 +2959,7 @@ Ohthankgod. Open it!</Text>
     <VoiceEntry GUID="acf1ae19-36f3-8052-3120-abe9982b8f44" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That's for my mother-in-law. The next one MUST be your cup!</Text>
+          <Text>哦，这是我继母的东西，下一个东西肯定是你的奖杯</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2967,7 +2967,7 @@ Ohthankgod. Open it!</Text>
     <VoiceEntry GUID="f760aaa0-0bf7-5318-9762-2454243050a5" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Here you go!</Text>
+          <Text>看到没？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -2976,30 +2976,30 @@ Ohthankgod. Open it!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You've pulled out a
-Long cup</Text>
+          <Text>你拉出来一个
+长奖杯</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="76328c53-a880-af03-28b5-9fa29b224278" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>M, here is your prize! See? A diamond!</Text>
+          <Text>嗯，这是你的奖励？看到了吗？一颗钻石！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>For your hard work in the pack!</Text>
+          <Text>为了致敬你在刚刚那个拓展包里挥洒的汗水！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>*holding laugh*</Text>
+          <Text>*憋住笑*</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Watch closely... It's on the left, and now...</Text>
+          <Text>看仔细了...本来在左边，现在...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>Shuffling... Shuffling... Shuffling...</Text>
+          <Text>打乱...打乱...打乱...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
-          <Text>Where is it?</Text>
+          <Text>现在在哪里？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3007,7 +3007,7 @@ Long cup</Text>
     <VoiceEntry GUID="a2a14182-7357-b326-399b-02abc8d6ddb0" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Come on!</Text>
+          <Text>选呀！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3015,7 +3015,7 @@ Long cup</Text>
     <VoiceEntry GUID="c72f56cf-25c7-4076-0bb1-2b757660f39f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>No tricks! Take a guess!</Text>
+          <Text>不耍你，随便猜一个！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3023,7 +3023,7 @@ Long cup</Text>
     <VoiceEntry GUID="301c31b2-e8f0-299c-d3bf-adf311db0190" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>No, not this one!</Text>
+          <Text>不，不是这个哟！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3031,7 +3031,7 @@ Long cup</Text>
     <VoiceEntry GUID="2224b11a-418f-925e-5e70-f2f7ee871c20" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Not this one either!</Text>
+          <Text>也不是这个呢！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3039,15 +3039,15 @@ Long cup</Text>
     <VoiceEntry GUID="d57cdff3-b84b-ccad-b65d-8abaed99e280" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Haa! I lied!! It's not a diamond!!</Text>
+          <Text>哈，我耍你的！才不是什么钻石！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>OF COURSE it's not a diamond!
-You are RUINING my game, why would it be a diamond?!</Text>
+          <Text>当然不是钻石了！
+你在破坏我的游戏，凭什么我要给你钻石？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Oh, it's so funny...
-You should have seen your face! Haha!</Text>
+          <Text>妈耶笑死我了...
+看看你脸上的表情，哈哈！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3056,8 +3056,8 @@ You should have seen your face! Haha!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You've picked a
-Tiny cup</Text>
+          <Text>你获得了一个
+微型奖杯</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -3681,7 +3681,7 @@ Definitely not me.</Text>
     <VoiceEntry GUID="4e62b311-4ed2-eab8-dcd5-5c84fb8e071b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I see you have grasped the concept. 
+          <Text>I see you have grasped the concept.
 Five pieces, one box.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
@@ -3693,7 +3693,7 @@ Five pieces, one box.</Text>
     <VoiceEntry GUID="0b9d6395-689f-318e-51ef-48bf221e7a58" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Now, there's only ONE box. ONE! 
+          <Text>Now, there's only ONE box. ONE!
 Quite hard to mess THAT up.</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -3779,7 +3779,7 @@ And screams
 Of pain</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Everything 
+          <Text>Everything
 has its place</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
@@ -4344,7 +4344,7 @@ extraordinary planning.</Text>
 Let me prepare the stage.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Khm-khm. Ladies and Gents, gather around - 
+          <Text>Khm-khm. Ladies and Gents, gather around -
 we have a WINNER!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
@@ -4406,7 +4406,7 @@ You CAN be good after all!</Text>
 Except that I didn't.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>I ran out of ideas, copied a puzzle from before, and voila - 
+          <Text>I ran out of ideas, copied a puzzle from before, and voila -
 it's your problem now.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
@@ -4431,7 +4431,7 @@ Whatever this is</Text>
 Duck</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Wow. 
+          <Text>Wow.
 Just wow.</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
@@ -4445,7 +4445,7 @@ Just wow.</Text>
 Elephant?</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>It's some sort of 
+          <Text>It's some sort of
 Thingamajig</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
@@ -4669,7 +4669,7 @@ A sink and an empty glass are on the table!</Text>
     <VoiceEntry GUID="a712178d-0e41-0d5c-8322-df34003d7afe" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Linda and Mary really like their black dresses 
+          <Text>Linda and Mary really like their black dresses
 and their amazing white cat.</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -4789,7 +4789,7 @@ on the given subject.</Text>
     <VoiceEntry GUID="ad6a51b0-4b05-2e4e-46c6-81f2525cad34" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>This concludes exercise 4. 
+          <Text>This concludes exercise 4.
 Continue to the next exercise!</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -4891,7 +4891,7 @@ after what the cat has done.</Text>
 because she often steals sausages from the refrigerator!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Let's say together: 
+          <Text>Let's say together:
 Bad doggy, bad! Tonight you will sleep outside!</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -5829,7 +5829,7 @@ Complete.</Text>
     <VoiceEntry GUID="2ecc714d-d8c6-ea3e-296e-77cbecdc6dda" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Look at those angry faces - 
+          <Text>Look at those angry faces -
 they indicate that you're doing something wrong!</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -5917,7 +5917,7 @@ Screamed at?</Text>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Going through 
+          <Text>Going through
 Basic-politeness-ville</Text>
         </VoiceEnding>
       </EndingList>
@@ -7997,7 +7997,7 @@ during this puzzle</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Move, Dude, 
+          <Text>Move, Dude,
 Get out da way!</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
@@ -8566,7 +8566,7 @@ Go back into the first album!</Text>
     <VoiceEntry GUID="ceb03b1c-6229-281e-8ffd-1c6ad1f18011" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>This one is actually really simple - 
+          <Text>This one is actually really simple -
 just find a shirt that you like and drop it into the basket...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
@@ -9359,7 +9359,7 @@ to cancel the bet, but... </Text>
           <Text>My friend didn't believe me.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>Wait, what is this? Network settings?! 
+          <Text>Wait, what is this? Network settings?!
 ...What the hell?!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
@@ -10251,7 +10251,7 @@ to put away this completely eco-friendly christmas tree!</Text>
           <Text>I bet it's a record! ...Actually... Knowing you -</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>I think you hold another one 
+          <Text>I think you hold another one
 for that one book you never returned to a library.</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -10501,7 +10501,7 @@ Except that wall</Text>
 Gets the burn</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>All in all, it's just 
+          <Text>All in all, it's just
 another hole in the wall</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
@@ -10705,7 +10705,7 @@ looks sad now</Text>
 "Income spread"</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>He has trusted you 
+          <Text>He has trusted you
 and you have failed him</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
@@ -11212,7 +11212,7 @@ And don't act like you didn't get it!</Text>
           <Text>Yummy</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Add pickles to 
+          <Text>Add pickles to
 make a weird delicacy</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
@@ -12039,7 +12039,7 @@ Follow the instructions in the list!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>No! Pickles are 
+          <Text>No! Pickles are
 Serious business</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
@@ -13076,7 +13076,7 @@ do you?</Text>
           <Text>Cryptoguru</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Next time, 
+          <Text>Next time,
 use uppercase
 and lowercase
 (w1)numbers</Text>

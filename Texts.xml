@@ -371,14 +371,14 @@
     </TextEntry>
     <TextEntry Theme="MENU" ID="SHUFFLE">
       <Comment>jigsaw puzzles, for example</Comment>
-      <Word>重洗</Word>
+      <Word>打乱</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CANCEL">
       <Word>取消</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="PACK">
       <Comment>(#) will be replaced with a number</Comment>
-      <Word>扩展包 (#)</Word>
+      <Word>扩展包(#)</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="LAST_PACK">
       <Word>最后的扩展包</Word>
@@ -412,7 +412,7 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_ON">
       <Comment>bomb is on/activated. lower case. Short.</Comment>
-      <Word>on</Word>
+      <Word>开</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_GIF">
       <Comment>can be translated.</Comment>
@@ -442,7 +442,7 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_20">
       <Comment>lines can be added as much as needed on any language only, for example</Comment>
-      <Word>这大概就是我的人生了吧...</Word>
+      <Word>我的人生一片无悔...</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="USB_TITLE">
       <Word>USB驱动器</Word>
@@ -637,16 +637,16 @@
       <Word>邓布利多死了</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_1">
-      <Comment>//TODO:中文化剧透信息 some spoilers, can be added more</Comment>
-      <Word>jack is lost and dies</Word>
+      <Comment>some spoilers, can be added more</Comment>
+      <Word>这游戏一共有12个扩展包</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_2">
       <Comment>//TODO:中文化剧透信息 some spoilers, can be added more</Comment>
-      <Word>bruce was dead</Word>
+      <Word>布鲁斯死了</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_3">
       <Comment>//TODO:中文化剧透信息 some spoilers, can be added more</Comment>
-      <Word>vaccination doesn't kill</Word>
+      <Word>疫苗不会致死</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="JIGSAW_NOPIECESFOUND">
       <Comment>When you don't have pieces yet. Error message</Comment>
@@ -752,7 +752,7 @@
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_2">
       <Comment>same error as previous</Comment>
-      <Word>&lt;color=#FF1F1FFF&gt;Dcuk&lt;/color&gt; not found</Word>
+      <Word>&lt;color=#FF1F1FFF&gt;Dcuk&lt;/color&gt; 未找到！</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_3">
       <Comment>second word has an error</Comment>
@@ -760,7 +760,7 @@
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_4">
       <Comment>same error as previous</Comment>
-      <Word>&lt;color=white&gt;D.U.C.K.&lt;/color&gt; does not support method: &lt;color=#FF1F1FFF&gt;reboto&lt;/color&gt;</Word>
+      <Word>&lt;color=white&gt;D.U.C.K.&lt;/color&gt; 不支持方法: &lt;color=#FF1F1FFF&gt;reboto&lt;/color&gt;</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_5">
       <Comment>corrent version</Comment>
