@@ -22,15 +22,15 @@ Always cups in the game.</Comment>
 (w2)可耻</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>这是
-这简直是
+          <Text>这...
+简直是...
 不可理喻</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
           <Text>看在上帝的份上</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>6分，不，5分不能更多了</Text>
+          <Text>6，不，5分不能更多了</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
           <Text>简直可怕</Text>
@@ -128,7 +128,7 @@ CTRL+Z?</Text>
           <Text>评价：你很差</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>Dude, Stop</Text>
+          <Text>哥们, 别闹</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="False">
           <Comment>GOOD END, Text only</Comment>
@@ -13087,14 +13087,14 @@ can be used only in this puzzle</Comment>
     <VoiceEntry GUID="5b50ce77-af75-6188-e904-be00aec655d7" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Here are some last wise words:
-give a man a cup and he'll be happy for a minute.</Text>
+          <Text>有一句名言说得好：
+授人予杯，其乐转瞬也。</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Teach a man to cup, and he'll be happy for a lifetime.</Text>
+          <Text>授人何予杯，其生无忧也。</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Basically it's a... fishing mini-game.</Text>
+          <Text>也就是说...钓鱼小游戏</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13102,7 +13102,7 @@ give a man a cup and he'll be happy for a minute.</Text>
     <VoiceEntry GUID="0f93e142-d88b-0d2c-fead-b77a0cb02c68" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Watch out, it's getting harder!</Text>
+          <Text>小心，越来越难了！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13110,7 +13110,7 @@ give a man a cup and he'll be happy for a minute.</Text>
     <VoiceEntry GUID="ad8a671b-fda9-189f-89fd-390449a108f6" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Are we there yet?!</Text>
+          <Text>我们到了吗？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13118,7 +13118,7 @@ give a man a cup and he'll be happy for a minute.</Text>
     <VoiceEntry GUID="d70f4d36-45a7-1da1-0e2d-223c86b19d1c" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>There it is!! Snap it!</Text>
+          <Text>找到了！勾上它！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13126,14 +13126,14 @@ give a man a cup and he'll be happy for a minute.</Text>
     <VoiceEntry GUID="9b531828-08a7-ece5-ac1a-1ab62c7df005" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>And here comes your last good reward of the game!...</Text>
+          <Text>这就是你在本游戏中最后的奖品了！...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Or is it?...</Text>
+          <Text>是吗？...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Yes, it is.
-Don't go TREASURE FISHING anymore.</Text>
+          <Text>没错，是的！
+不要再来钓宝藏了！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13141,7 +13141,7 @@ Don't go TREASURE FISHING anymore.</Text>
     <VoiceEntry GUID="be88e5a1-b325-0626-f8a0-a291141bf04a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That's not your cup! You need to go deeper!</Text>
+          <Text>那不是你的奖杯！你需要更深入些！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13149,7 +13149,7 @@ Don't go TREASURE FISHING anymore.</Text>
     <VoiceEntry GUID="f602f318-7ed8-78ed-a4e8-095e1ff250c7" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Will you please avoid it? It's not that hard!</Text>
+          <Text>你能躲着点吗？这没这么难！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13157,7 +13157,7 @@ Don't go TREASURE FISHING anymore.</Text>
     <VoiceEntry GUID="e9107eb0-d5f8-0c12-b8eb-b148c3bcc30d" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Should I do it for you?!</Text>
+          <Text>要不要我来帮你？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13165,7 +13165,7 @@ Don't go TREASURE FISHING anymore.</Text>
     <VoiceEntry GUID="e01a2b9b-1103-a1b6-d1ff-8d02b9564a82" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You are hopeless...</Text>
+          <Text>你简直无可救药...</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13173,10 +13173,10 @@ Don't go TREASURE FISHING anymore.</Text>
     <VoiceEntry GUID="f0cb6515-2654-d87d-321b-ab58f8ff6922" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Nice weather...</Text>
+          <Text>天气真好...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>TRY AGAIN!</Text>
+          <Text>再来一次！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13185,174 +13185,174 @@ Don't go TREASURE FISHING anymore.</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(h)Treasure chest
-Key sold separately</Text>
+          <Text>(h)宝箱
+钥匙另外出售</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="3f07078c-f137-fb5a-fb56-179a4770747e" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>*happy music*
-*firework sounds*</Text>
+          <Text>*快乐的音乐*
+*烟花声*</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>*from afar* I invited him to test my game,
-just like all the other testers.</Text>
+          <Text>*远处的声音* 我邀请他来测试我们的游戏，
+就像其他的测试者一样！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>And now here I am, packing my stuff to flee the city...</Text>
+          <Text>而我现在，得收拾行李逃出这个城市了...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Next time I'm gonna skip testing altogether!</Text>
+          <Text>下一次我得跳过整个测试环节了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>Or dump it in early access and let others test it!</Text>
+          <Text>或者直接在试玩版的时候就丢给其他人测试！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
-          <Text>...Wait. Is tester still here?...</Text>
+          <Text>...等一下，测试者还在这？...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="6">
-          <Text>Seventeen, you're still here?!</Text>
+          <Text>十七号！你还在吗？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="7">
-          <Text>Look at the screen - the game is over!!
-And stop sitting here, waiting for the cup!!</Text>
+          <Text>看看屏幕！游戏结束了！
+你别坐在这里了，还想等什么奖杯！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="8">
-          <Text>Oh, what's that?! What you are saying?!</Text>
+          <Text>哦，什么？你在说什么？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="9">
-          <Text>You did nothing wrong and you need this cup?!?</Text>
+          <Text>你什么都没做错，你想要这个奖杯？？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="10">
-          <Text>*fake HA-HA-HA*</Text>
+          <Text>*假 哈哈哈*</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="11">
-          <Text>Should I remind you?! Huuh?!</Text>
+          <Text>要我提醒你吗？哈？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="12">
-          <Text>Should I tell you how YOU BROKE MY GAME?! Huuuuh?!</Text>
+          <Text>要我亲口告诉你，是你把我游戏弄坏了吗？哈？？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="13">
-          <Text>That you're THE ONE AND ONLY
-who managed to put sandals over socks?!</Text>
+          <Text>你是哪个唯一一个把
+凉鞋和袜子一起穿的人？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="14">
-          <Text>HUUUUH?! Remember that?!
-You did everything wrong, and you broke everything...</Text>
+          <Text>哈？还记得吗？
+你一切都做错了，一切都被你破坏了...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="15">
-          <Text>You even broke my D.U.C.K.! ...my precious D.U.C.K.!</Text>
+          <Text>你甚至弄坏了我的D.U.C.K.！...我的宝贝D.U.C.K.!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="16">
-          <Text>And now all your weird solutions are online!!</Text>
+          <Text>现在你那些奇怪的解法都跑到网上去了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="17">
-          <Text>Where everyone is gonna see them!!
-And try to copy you...</Text>
+          <Text>现在大家都能看的到！
+而且试着模仿你...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="18">
-          <Text>...you goddamn role model...</Text>
+          <Text>...你简直是社会的楷模...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="19">
-          <Text>Oh, and I'm sure you freaking enjoy how...</Text>
+          <Text>哦，我知道你现在肯定很享受...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="20">
-          <Text>...that stupid word...</Text>
+          <Text>...那个愚蠢的词...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="21">
-          <Text>..."Triggered" I am right now!!</Text>
+          <Text>...知道我现在是有多“被激怒”吗</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="22">
-          <Text>And that's why you can't get this cup!!
-'Cause after what you did...</Text>
+          <Text>这就是为什么你拿不到这个奖杯！
+因为在你做了这些之后...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="23">
-          <Text>You get nothing!!</Text>
+          <Text>你什么都得不到！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="24">
           <Text>&lt;size=30&gt;NOTHING, I SAID!&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="25">
-          <Text>And you know the funniest part?!
-I even had more cups for you!!</Text>
+          <Text>你知道最搞笑的是什么吗？
+我甚至还给你做了更多奖杯！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="26">
-          <Text>Like this one, for example!!</Text>
+          <Text>举个例子！比如这个！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="27">
-          <Text>It's a "best tester in the world" cup!</Text>
+          <Text>这是个“全世界最好的玩家”奖杯！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="28">
-          <Text>Guess why you won't get it, HA!</Text>
+          <Text>猜一猜你为什么没得到？啊？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="29">
-          <Text>Oh, or look at this thing!</Text>
+          <Text>哦，看看这个！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="30">
-          <Text>LOOK AT IT!! You want it?!
-I KNOW you want it!</Text>
+          <Text>仔细看！！你想要吗？
+我知道你想要！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="31">
-          <Text>Well, FAT CHANCE!!</Text>
+          <Text>好吧，不可能了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="32">
-          <Text>And you won't get this,</Text>
+          <Text>你也不会得到这个！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="33">
-          <Text>or THIS</Text>
+          <Text>还有这个！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="34">
-          <Text>or THIS ONE!!</Text>
+          <Text>或者是这个！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="35">
-          <Text>NONE OF THEM!!</Text>
+          <Text>一个都得不到！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="36">
-          <Text>GAME OVER, DUDE!</Text>
+          <Text>游戏结束！小子！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="37">
           <Text>&lt;size=30&gt;GAME OVER!!&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="38">
-          <Text>GET THE HELL OUT OF HERE,</Text>
+          <Text>给我滚出这里！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="39">
-          <Text>&lt;size=30&gt;YOU&lt;/size&gt;</Text>
+          <Text>&lt;size=30&gt;你这&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="40">
-          <Text>&lt;size=36&gt;NASTY&lt;/size&gt;</Text>
+          <Text>&lt;size=36&gt;小&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="41">
-          <Text>&lt;size=48&gt;PIECE OF&lt;/size&gt;</Text>
+          <Text>&lt;size=48&gt;贱&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="42">
-          <Text>*music playing*</Text>
+          <Text>*播放音乐*</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="43">
-          <Text>hey!</Text>
+          <Text>嘿！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="44">
-          <Text>HEEEY!</Text>
+          <Text>嘿！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="45">
-          <Text>*inhale* THAT'S IT!</Text>
+          <Text>*吸气* 够了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="46">
-          <Text>You broke your last puzzle!!!</Text>
+          <Text>你就连我最后的谜题都破坏了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="47">
-          <Text>You hear me?!?
-YOU ARE DONE FOR!!</Text>
+          <Text>你听到了吗？
+你要完蛋了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="48">
-          <Text>AH</Text>
+          <Text>啊</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="49">
           <Comment>don't translate (type:##)
 type:2 - means type over 2 sec this line, letter by letter</Comment>
-          <Text>(type:4)AAAAAAAAAARRRRRRRRR</Text>
+          <Text>(type:4)啊啊啊啊啊啊啊啊啊啊啊</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -13361,13 +13361,13 @@ type:2 - means type over 2 sec this line, letter by letter</Comment>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(h)Well played!</Text>
+          <Text>(h)哇哦</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(h)Good game!</Text>
+          <Text>(h)打得不错</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>(h)Good job!</Text>
+          <Text>(h)谢谢你</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
