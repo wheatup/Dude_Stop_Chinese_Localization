@@ -14,7 +14,7 @@
       <titleAcquired>垃圾奖杯</titleAcquired>
       <titleNotAcquired>一个奖杯</titleNotAcquired>
       <descriptionAcquired>我建议你在碰过这个奖杯之后洗个手。</descriptionAcquired>
-      <descriptionNotAcquired>完成本拓展包来获得。</descriptionNotAcquired>
+      <descriptionNotAcquired>完成本扩展包来获得。</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="68">
