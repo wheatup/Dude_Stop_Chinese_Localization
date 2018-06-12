@@ -11869,7 +11869,7 @@ D.U.C.K.把这个游戏弄坏了，所以赌我们不打了</Text>
     <VoiceEntry GUID="6acc911f-0eab-8d6e-ae4c-2fee08781b83" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>你的先洗手...</Text>
+          <Text>你得先洗手...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>或者洗鼠标指针...</Text>
