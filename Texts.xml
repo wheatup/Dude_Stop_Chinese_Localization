@@ -728,7 +728,7 @@
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_6">
       <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
-      <Word>移除非标准的谜题解决方案... 完成</Word>
+      <Word>移除非标准的谜题解法... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_7">
       <Word>duck &gt;&gt; this game</Word>
@@ -934,27 +934,27 @@ next lines (any number) - list of options to choose from</Comment>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_LEARNING_PROTOCOL">
       <Comment>dots and 0% needs to stay</Comment>
       <Word>&lt;color=black&gt;D.U.C.K. 学习协议&lt;/color&gt;
-录制解决方案... 0%
-分析解决方案... 0%
+录制解法... 0%
+分析解法... 0%
 &lt;color=#048300FF&gt;成功&lt;/color&gt;</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_0">
       <Comment>dots and word after it needs to stay</Comment>
       <Word>基于已收集的信息
-生成一个解决方案... 完成</Word>
+生成一个解法... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_1">
       <Word>你想测试
-自动生成的解决方案吗？</Word>
+自动生成的解法吗？</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_2">
-      <Word>运行解决方案...</Word>
+      <Word>运行解法...</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_3">
       <Word>已完成。</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_4">
-      <Word>请给这个解决方案评分：</Word>
+      <Word>请给这个解法评分：</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_POPUP_CINEMAPHONE_5">
       <Word>谢谢。</Word>
@@ -1138,10 +1138,10 @@ next lines (any number) - list of options to choose from</Comment>
 发布者: &lt;b&gt;D.U.C.K. &lt;/b&gt;</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_SAVING">
-      <Word>将解决方案保存至硬盘</Word>
+      <Word>将解法保存至硬盘</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_UPLOADING">
-      <Word>正在将解决方案上传至备用服务器</Word>
+      <Word>正在将解法上传至备用服务器</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK1_CONNECTING">
       <Word>正在连接至互联网</Word>
@@ -1162,7 +1162,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>查看信息</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_1">
-      <Word>信息: &lt;color=white&gt;D.U.C.K. 解决方案数据库&lt;/color&gt;</Word>
+      <Word>信息: &lt;color=white&gt;D.U.C.K. 解法数据库&lt;/color&gt;</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK2_INFO_2">
       <Comment>non-existing IP</Comment>
@@ -1206,17 +1206,17 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>明明可以好好地玩但是你偏要当个小贱人.bad.s</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADING">
-      <Word>正在上传所选的解决方案</Word>
+      <Word>正在上传所选的解法</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK11_DUCK3_UPLOADED">
       <Word>上传至：</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="PACK11_DUCK_IN_MENU">
       <Word>扩展包已解锁
-解决方案需要更多数据</Word>
+解法需要更多数据</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_CHRISTMASTREE2_DUCK">
-      <Word>正在上传解决方案至数据库</Word>
+      <Word>正在上传解法至数据库</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_START">
       <Word>需要一个邮箱列表才能进行问卷调查</Word>
@@ -1256,7 +1256,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>列表已保存。</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SHARE_DATA">
-      <Word>是否将录制的解决方案数据库分享至联系人列表？
+      <Word>是否将录制的解法数据库分享至联系人列表？
 正在生成电子邮件</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_SEND">
