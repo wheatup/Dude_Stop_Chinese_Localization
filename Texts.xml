@@ -737,7 +737,7 @@
       <Word>(&lt;color=#FF1F1FFF&gt;警告&lt;/color&gt;：最新版本的&lt;color=white&gt;D.U.C.K.&lt;/color&gt;目前&lt;color=#FF1F1FFF&gt;尚不稳定&lt;/color&gt;)</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_9">
-      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (Yes / No) </Word>
+      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (是 / 否) </Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_10">
       <Word>YES</Word>
@@ -1003,7 +1003,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>1: 没，玩家很正常，但是反作弊系统崩了，我们继续不下去了。</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_6">
-      <Word>2: 那个DUCK？</Word>
+      <Word>2: 那个D.U.C.K.？</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_7">
       <Word>2: 你说过它还没完成啊</Word>

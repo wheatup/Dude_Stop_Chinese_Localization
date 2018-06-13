@@ -6384,7 +6384,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>和计划的一样！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>DUCK已经启用，你现在
+          <Text>D.U.C.K.已经启用，你现在
 根本没有机会再乱搞我的游戏了！</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -6637,7 +6637,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="80aa9cd9-3982-006f-5d4b-17353c52def9" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>实话说，我觉得这个DUCK
+          <Text>实话说，我觉得这个D.U.C.K.
 喜欢你的坏的解法</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
