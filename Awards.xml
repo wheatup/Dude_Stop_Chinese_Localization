@@ -171,7 +171,7 @@
       <titleAcquired>白色蜡笔</titleAcquired>
       <titleNotAcquired>上下颠倒了</titleNotAcquired>
       <descriptionAcquired>这就像一盒巧克力，你永远不知道你会得到什么。事实上你知道，一根蜡笔，白色的，一无是处，味道也不怎么样，有时候还放反了。</descriptionAcquired>
-      <descriptionNotAcquired>Reverse stacking</descriptionNotAcquired>
+      <descriptionNotAcquired>倒栽葱</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="64">
@@ -195,7 +195,7 @@
       <titleAcquired>披萨狂人</titleAcquired>
       <titleNotAcquired>披萨狂人</titleNotAcquired>
       <descriptionAcquired />
-      <descriptionNotAcquired>切好披萨！</descriptionNotAcquired>
+      <descriptionNotAcquired>切披萨大师！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="12">
@@ -409,7 +409,7 @@
       <titleNotAcquired>完美？</titleNotAcquired>
       <descriptionAcquired>看起来你好像知道标准答案，很可疑哦！</descriptionAcquired>
       <descriptionNotAcquired>只有90后知道，以及00后，以及其他人，所以基本大家都知道</descriptionNotAcquired>
-      <shortDescriptionAcquired>Perfection.</shortDescriptionAcquired>
+      <shortDescriptionAcquired>完美！</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="51">
       <comment>In less than 31 moves</comment>
