@@ -2,15 +2,15 @@
 <AwardContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Note>
 	--------------------------
-	Dude, Stop. Property of Team HalfBeard.
-	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	Dude， Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE！ Make a copy of the whole folder EN and put it next to it， and change words there.
 	DO NOT CHANGE Theme and Index.
-	Comment is for you only - no need to translate them, unless you want to help another translator.
+	Comment is for you only - no need to translate them， unless you want to help another translator.
 	--------------------------
 </Note>
   <EntryList>
     <AwardEntry index="2">
-      <comment>Bad cup, Cup from a trash can</comment>
+      <comment>Bad cup， Cup from a trash can</comment>
       <titleAcquired>垃圾奖杯</titleAcquired>
       <titleNotAcquired>一个奖杯</titleNotAcquired>
       <descriptionAcquired>我建议你在碰过这个奖杯之后洗个手。</descriptionAcquired>
@@ -26,7 +26,7 @@
       <shortDescriptionAcquired>别来这里了！</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="4">
-      <comment>Bad cup, Rusty rombus, broken</comment>
+      <comment>Bad cup， Rusty rombus， broken</comment>
       <titleAcquired>损坏的奖杯</titleAcquired>
       <titleNotAcquired>一个菱形？</titleNotAcquired>
       <descriptionAcquired>眼巴巴的看着那些丢失的拼图却知道你完不成它是一种什么样的体验？失落？伤心？蓝瘦？香菇？很好，证明这还是有点用的。</descriptionAcquired>
@@ -34,7 +34,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="5">
-      <comment>Good cup, Golden rombus that you combine from pieces</comment>
+      <comment>Good cup， Golden rombus that you combine from pieces</comment>
       <titleAcquired>瑞典奖杯</titleAcquired>
       <titleNotAcquired>另一个菱形！</titleNotAcquired>
       <descriptionAcquired>其实和瑞典没什么关系。</descriptionAcquired>
@@ -42,7 +42,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="6">
-      <comment>Bad cup, Tiny metal cup</comment>
+      <comment>Bad cup， Tiny metal cup</comment>
       <titleAcquired>微型奖杯</titleAcquired>
       <titleNotAcquired>坏奖杯</titleNotAcquired>
       <descriptionAcquired>有个小奖杯也不是什么坏事。</descriptionAcquired>
@@ -50,7 +50,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="7">
-      <comment>Good cup, Long golden cup</comment>
+      <comment>Good cup， Long golden cup</comment>
       <titleAcquired>长奖杯</titleAcquired>
       <titleNotAcquired>好奖杯</titleNotAcquired>
       <descriptionAcquired>不怕你骄傲。</descriptionAcquired>
@@ -58,7 +58,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="30">
-      <comment>For smashing domino too strong, domino piece</comment>
+      <comment>For smashing domino too strong， domino piece</comment>
       <titleAcquired>多米诺</titleAcquired>
       <titleNotAcquired>多米诺</titleNotAcquired>
       <descriptionAcquired>排山倒海！别误会，这么做是不对的，虽然做起来还是很有趣的。</descriptionAcquired>
@@ -74,7 +74,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="31">
-      <comment>100% bad, wooden cup</comment>
+      <comment>100% bad， wooden cup</comment>
       <titleAcquired>木头段位</titleAcquired>
       <titleNotAcquired>送给最差的你</titleNotAcquired>
       <descriptionAcquired>你玩的太烂了，金属奖杯不适合你，给块木头意思一下就好了。</descriptionAcquired>
@@ -82,7 +82,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="32">
-      <comment>100% good, tiny long cup</comment>
+      <comment>100% good， tiny long cup</comment>
       <titleAcquired>长奖杯的小弟</titleAcquired>
       <titleNotAcquired>送给最优秀的你</titleNotAcquired>
       <descriptionAcquired>杯半功倍！</descriptionAcquired>
@@ -90,7 +90,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="22">
-      <comment>Bad cup, Hat from a Bistro Restoran</comment>
+      <comment>Bad cup， Hat from a Bistro Restoran</comment>
       <titleAcquired>打工狗帽子</titleAcquired>
       <titleNotAcquired>"挂科"</titleNotAcquired>
       <descriptionAcquired>帽子好像在说：醒醒，起来炸鸡了！</descriptionAcquired>
@@ -98,7 +98,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="23">
-      <comment>Good cup, Hat from a University graduation</comment>
+      <comment>Good cup， Hat from a University graduation</comment>
       <titleAcquired>毕业帽</titleAcquired>
       <titleNotAcquired>教育的意义</titleNotAcquired>
       <descriptionAcquired>感觉有点沉，也许是因为欠了一屁股债的原因吧。
@@ -107,7 +107,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="56">
-      <comment>100% bad, Chocolate medal</comment>
+      <comment>100% bad， Chocolate medal</comment>
       <titleAcquired>巧克力奖牌</titleAcquired>
       <titleNotAcquired>失败的话</titleNotAcquired>
       <descriptionAcquired>奖牌哪有吃的实在</descriptionAcquired>
@@ -115,7 +115,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="63">
-      <comment>Finish pack in 15 sec, Golden star</comment>
+      <comment>Finish pack in 15 sec， Golden star</comment>
       <titleAcquired>20秒速答</titleAcquired>
       <titleNotAcquired>没时间解释了</titleNotAcquired>
       <descriptionAcquired>你点下一页的速度比点跳过任何一个用户协议的速度还要快。</descriptionAcquired>
@@ -123,7 +123,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="10">
-      <comment>Bad cup, Cup with a spoiler text</comment>
+      <comment>Bad cup， Cup with a spoiler text</comment>
       <titleAcquired>剧透奖杯</titleAcquired>
       <titleNotAcquired>意料之外</titleNotAcquired>
       <descriptionAcquired>不请自来的礼物
@@ -133,7 +133,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="11">
-      <comment>Good cup, Cup from pieces</comment>
+      <comment>Good cup， Cup from pieces</comment>
       <titleAcquired>方方的奖杯</titleAcquired>
       <titleNotAcquired>方方的奖杯</titleNotAcquired>
       <descriptionAcquired>自己做的奖杯。别担心，这不是什么比赛。
@@ -143,7 +143,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="33">
-      <comment>For cutting pizza in 11 pieces, cup is a pizza cutter</comment>
+      <comment>For cutting pizza in 11 pieces， cup is a pizza cutter</comment>
       <titleAcquired>十一</titleAcquired>
       <titleNotAcquired />
       <descriptionAcquired>你用4刀把一个披萨切成了11块，莫非您就是传说中的数学天才？或者只是个披萨武士？</descriptionAcquired>
@@ -151,7 +151,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="34">
-      <comment>100% bad, Pet Rock</comment>
+      <comment>100% bad， Pet Rock</comment>
       <titleAcquired>石头</titleAcquired>
       <titleNotAcquired>坏奖杯2:坏人有坏报</titleNotAcquired>
       <descriptionAcquired>石头有很多种，硬石头，漂亮的石头，软石头，但都不含矿物！</descriptionAcquired>
@@ -159,7 +159,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="35">
-      <comment>100% good, boring golden one</comment>
+      <comment>100% good， boring golden one</comment>
       <titleAcquired>金质奖杯</titleAcquired>
       <titleNotAcquired>完美</titleNotAcquired>
       <descriptionAcquired>金的化学符号是Au，周期表排79位。纯净的金是一种闪亮，略带红的黄色，高密度，柔软，可溶解，高延展性的金属。 </descriptionAcquired>
@@ -175,7 +175,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="64">
-      <comment>For cutting crust off, Cup is Pineapple</comment>
+      <comment>For cutting crust off， Cup is Pineapple</comment>
       <titleAcquired>披萨边最讨厌了</titleAcquired>
       <titleNotAcquired />
       <descriptionAcquired>你给我乖乖吃了它</descriptionAcquired>
@@ -183,7 +183,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="65">
-      <comment>Cut pizza and avoid all the meat pieces, cup is a pizza slice as a necklace</comment>
+      <comment>Cut pizza and avoid all the meat pieces， cup is a pizza slice as a necklace</comment>
       <titleAcquired>你不吃肉的吗</titleAcquired>
       <titleNotAcquired />
       <descriptionAcquired>吃个东西还要玩扫雷？还是说扫腊肠？叮！</descriptionAcquired>
@@ -191,7 +191,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="66">
-      <comment>Get a pizza achievements (not actual achievement, just write something about pizza)</comment>
+      <comment>Get a pizza achievements (not actual achievement， just write something about pizza)</comment>
       <titleAcquired>披萨狂人</titleAcquired>
       <titleNotAcquired>披萨狂人</titleNotAcquired>
       <descriptionAcquired />
@@ -199,7 +199,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="12">
-      <comment>Bad cup, Pile of lemons</comment>
+      <comment>Bad cup， Pile of lemons</comment>
       <titleAcquired>一堆柠檬</titleAcquired>
       <titleNotAcquired>备选计划</titleNotAcquired>
       <descriptionAcquired>从A-F，你选择了补充每日所需的维他命C！</descriptionAcquired>
@@ -207,7 +207,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="13">
-      <comment>Good cup, Chocolate cake</comment>
+      <comment>Good cup， Chocolate cake</comment>
       <titleAcquired>蛋糕奖杯</titleAcquired>
       <titleNotAcquired>看起来像蛋糕</titleNotAcquired>
       <descriptionAcquired>嗯嗯嗯～蛋糕！</descriptionAcquired>
@@ -216,7 +216,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="36">
-      <comment>All cat puzzle good, cup is a mouse toy</comment>
+      <comment>All cat puzzle good， cup is a mouse toy</comment>
       <titleAcquired>老鼠玩具</titleAcquired>
       <titleNotAcquired>可以捏着玩的奖杯</titleNotAcquired>
       <descriptionAcquired>用一只毛绒玩具老鼠好好宠爱你的猫咪！
@@ -227,7 +227,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="37">
-      <comment>All dog puzzles good, cup is a bone</comment>
+      <comment>All dog puzzles good， cup is a bone</comment>
       <titleAcquired>骨头</titleAcquired>
       <titleNotAcquired>狗喜欢的</titleNotAcquired>
       <descriptionAcquired>五骨杂粮
@@ -236,7 +236,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="38">
-      <comment>All dog puzzles bad, looks like a medical cone on a dog</comment>
+      <comment>All dog puzzles bad， looks like a medical cone on a dog</comment>
       <titleAcquired>羞愧之筒</titleAcquired>
       <titleNotAcquired>惩罚</titleNotAcquired>
       <descriptionAcquired>这是你应得的
@@ -245,7 +245,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="39">
-      <comment>All cat puzzle bad, cup is a water spraying bottle</comment>
+      <comment>All cat puzzle bad， cup is a water spraying bottle</comment>
       <titleAcquired>喷水瓶</titleAcquired>
       <titleNotAcquired>一个瓶状奖杯</titleNotAcquired>
       <descriptionAcquired>喷你家猫一脸！
@@ -265,7 +265,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="14">
-      <comment>Bad cup, D.U.C.K.</comment>
+      <comment>Bad cup， D.U.C.K.</comment>
       <titleAcquired>D.U.C.K.</titleAcquired>
       <titleNotAcquired>不幸的奖杯</titleNotAcquired>
       <descriptionAcquired>呱。</descriptionAcquired>
@@ -273,7 +273,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="15">
-      <comment>Good cup, Cup with candies</comment>
+      <comment>Good cup， Cup with candies</comment>
       <titleAcquired>糖果奖杯</titleAcquired>
       <titleNotAcquired>甜甜的</titleNotAcquired>
       <descriptionAcquired>获胜的感觉总是这么甜蜜</descriptionAcquired>
@@ -281,7 +281,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="41">
-      <comment>100% good, Icecream</comment>
+      <comment>100% good， Icecream</comment>
       <titleAcquired>冰！淇淋！</titleAcquired>
       <titleNotAcquired>超级甜</titleNotAcquired>
       <descriptionAcquired>别担心，它不会化，因为它是像素仙尘做的！</descriptionAcquired>
@@ -289,7 +289,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="42">
-      <comment>100% bad, Stuff from pockets</comment>
+      <comment>100% bad， Stuff from pockets</comment>
       <titleAcquired>你应得的</titleAcquired>
       <titleNotAcquired>我的全部家当</titleNotAcquired>
       <descriptionAcquired>一枚硬币，一根旧牙签和一些肚脐眼棉签</descriptionAcquired>
@@ -306,7 +306,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="16">
-      <comment>Bad cup, Old shoe</comment>
+      <comment>Bad cup， Old shoe</comment>
       <titleAcquired>又旧又臭的鞋子</titleAcquired>
       <titleNotAcquired>又快又臭</titleNotAcquired>
       <descriptionAcquired>多么令人怀念……又反胃</descriptionAcquired>
@@ -314,7 +314,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="17">
-      <comment>Good cup, Turbo snail</comment>
+      <comment>Good cup， Turbo snail</comment>
       <titleAcquired>极速蜗牛</titleAcquired>
       <titleNotAcquired>最差中的最好的</titleNotAcquired>
       <descriptionAcquired>名副其实</descriptionAcquired>
@@ -322,7 +322,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="44">
-      <comment>100% good, Big lightning</comment>
+      <comment>100% good， Big lightning</comment>
       <titleAcquired>闪电</titleAcquired>
       <titleNotAcquired>一个奖杯</titleNotAcquired>
       <descriptionAcquired>有时候快是一件好事</descriptionAcquired>
@@ -331,7 +331,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="45">
-      <comment>100% bad, Items that break fast. Other text is in a WORDS file (SLOWRAPID_CUP)</comment>
+      <comment>100% bad， Items that break fast. Other text is in a WORDS file (SLOWRAPID_CUP)</comment>
       <titleAcquired>快，但是错了</titleAcquired>
       <titleNotAcquired>快，但是不对</titleNotAcquired>
       <descriptionAcquired />
@@ -340,7 +340,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="46">
-      <comment>Broken elevator, looks like stairs</comment>
+      <comment>Broken elevator， looks like stairs</comment>
       <titleAcquired>楼梯</titleAcquired>
       <titleNotAcquired>坏了</titleNotAcquired>
       <descriptionAcquired>现在你只能用爬的了</descriptionAcquired>
@@ -348,7 +348,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="74">
-      <comment>String from a Jacket Hoody, for taking it off</comment>
+      <comment>String from a Jacket Hoody， for taking it off</comment>
       <titleAcquired>一根线</titleAcquired>
       <titleNotAcquired>夹克衫</titleNotAcquired>
       <descriptionAcquired>这根线现在你穿不回去了吧</descriptionAcquired>
@@ -356,7 +356,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="67">
-      <comment>See all puzzles in a pack, looks like  and eye</comment>
+      <comment>See all puzzles in a pack， looks like  and eye</comment>
       <titleAcquired>我的眼睛，洞察一切</titleAcquired>
       <titleNotAcquired>全知者奖杯</titleNotAcquired>
       <descriptionAcquired>这里的一切你都知道了，你才是这里的主人</descriptionAcquired>
@@ -364,7 +364,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="18">
-      <comment>Bad cup, Claw</comment>
+      <comment>Bad cup， Claw</comment>
       <titleAcquired>爪子</titleAcquired>
       <titleNotAcquired>你坏坏</titleNotAcquired>
       <descriptionAcquired>爪子是个大师，知道谁是谁非。而你已经知道判决书上写了什么了</descriptionAcquired>
@@ -372,7 +372,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="19">
-      <comment>Good cup, Robocup</comment>
+      <comment>Good cup， Robocup</comment>
       <titleAcquired>机器杯</titleAcquired>
       <titleNotAcquired>进击的奖杯</titleNotAcquired>
       <descriptionAcquired>为了不侵权，我们这能做到这一步了</descriptionAcquired>
@@ -380,7 +380,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="47">
-      <comment>100% bad, Milk and cookies</comment>
+      <comment>100% bad， Milk and cookies</comment>
       <titleAcquired>永远都是干巴巴的</titleAcquired>
       <titleNotAcquired>令人失落的奖杯</titleNotAcquired>
       <descriptionAcquired>你永远不会得到湿湿的那个</descriptionAcquired>
@@ -388,7 +388,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="48">
-      <comment>100% good, cookies</comment>
+      <comment>100% good， cookies</comment>
       <titleAcquired>一堆饼干</titleAcquired>
       <titleNotAcquired>甜美的胜利</titleNotAcquired>
       <descriptionAcquired>牙都甜掉了</descriptionAcquired>
@@ -421,7 +421,7 @@
                  好的</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="52">
-      <comment>Correct order, and big one was never on the small one</comment>
+      <comment>Correct order， and big one was never on the small one</comment>
       <titleAcquired>顺序很重要</titleAcquired>
       <titleNotAcquired>技巧性胜利</titleNotAcquired>
       <descriptionAcquired>这是唯一值得遵守的规则，是吧？</descriptionAcquired>
@@ -429,7 +429,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="20">
-      <comment>Bad cup, Potato</comment>
+      <comment>Bad cup， Potato</comment>
       <titleAcquired>土豆</titleAcquired>
       <titleNotAcquired>蔬菜</titleNotAcquired>
       <descriptionAcquired>你可以煮了它，炸了它，烤了他，切了……哦，这个不行，哈哈哈哈
@@ -439,7 +439,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="21">
-      <comment>Good cup, Golden case</comment>
+      <comment>Good cup， Golden case</comment>
       <titleAcquired>垃圾箱</titleAcquired>
       <titleNotAcquired>道具狂人</titleNotAcquired>
       <descriptionAcquired>等下，这才不是垃圾，这是回忆！</descriptionAcquired>
@@ -447,7 +447,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="53">
-      <comment>100% bad, </comment>
+      <comment>100% bad， </comment>
       <titleAcquired>无意义的奖杯</titleAcquired>
       <titleNotAcquired>不必要的奖杯</titleNotAcquired>
       <descriptionAcquired>根本没任何意义，但是你还是做到了。 &lt;b&gt;恭喜你&lt;/b&gt; 浪费了时间来获得一个丑了吧唧的收集品！</descriptionAcquired>
@@ -457,7 +457,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="54">
-      <comment>100% good, golden pen</comment>
+      <comment>100% good， golden pen</comment>
       <titleAcquired>金钢笔</titleAcquired>
       <titleNotAcquired>物品栏大师</titleNotAcquired>
       <descriptionAcquired>值得带回家写作的东西</descriptionAcquired>
@@ -465,7 +465,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="55">
-      <comment>All pictures in right order, cup is a kids pic</comment>
+      <comment>All pictures in right order， cup is a kids pic</comment>
       <titleAcquired>小孩的照片</titleAcquired>
       <titleNotAcquired>"看起来不错"</titleNotAcquired>
       <descriptionAcquired>你不喜欢，但是也别扔了啊</descriptionAcquired>
@@ -473,7 +473,7 @@
       <shortDescriptionAcquired>很老~实的照片</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="24">
-      <comment>Bad cup, Monster cup</comment>
+      <comment>Bad cup， Monster cup</comment>
       <titleAcquired>怪物奖杯</titleAcquired>
       <titleNotAcquired>恐怖片</titleNotAcquired>
       <descriptionAcquired>它正看着你的灵魂，而且你身后也有个灵魂</descriptionAcquired>
@@ -481,7 +481,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="25">
-      <comment>Good cup, Holy grail</comment>
+      <comment>Good cup， Holy grail</comment>
       <titleAcquired>圣杯</titleAcquired>
       <titleNotAcquired>有一定年代了</titleNotAcquired>
       <descriptionAcquired>你证明了你的价值</descriptionAcquired>
@@ -489,7 +489,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="58">
-      <comment>100% bad, Rusty metal cup</comment>
+      <comment>100% bad， Rusty metal cup</comment>
       <titleAcquired>生锈的奖杯</titleAcquired>
       <titleNotAcquired>废铜烂铁</titleNotAcquired>
       <descriptionAcquired>嘿，小孩，靠近点，想来点破伤风吗？</descriptionAcquired>
@@ -497,7 +497,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="59">
-      <comment>100% good, Golden cup</comment>
+      <comment>100% good， Golden cup</comment>
       <titleAcquired>另一个金奖杯</titleAcquired>
       <titleNotAcquired>金子做的</titleNotAcquired>
       <descriptionAcquired>另一个没用的描述</descriptionAcquired>
@@ -513,10 +513,10 @@
       <shortDescriptionAcquired>很刀兴见到你</shortDescriptionAcquired>
     </AwardEntry>
     <AwardEntry index="26">
-      <comment>Bad cup, Golden, #17 text</comment>
+      <comment>Bad cup， Golden， #17 text</comment>
       <titleAcquired>感激的奖励</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>谢谢你，测试者#17，因为你参与了Dude, Stop这款游戏的付费测试。你做的很&lt;color=red&gt;差&lt;/color&gt;...但至少你尽力了</descriptionAcquired>
+      <descriptionAcquired>谢谢你，测试者#17，因为你参与了Dude， Stop这款游戏的付费测试。你做的很&lt;color=red&gt;差&lt;/color&gt;...但至少你尽力了</descriptionAcquired>
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -529,7 +529,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="27">
-      <comment>Good cup, Treasure chest with gold</comment>
+      <comment>Good cup， Treasure chest with gold</comment>
       <titleAcquired>宝箱</titleAcquired>
       <titleNotAcquired>全都是奖品</titleNotAcquired>
       <descriptionAcquired>从最深处挖上来的，现在就在你的眼前</descriptionAcquired>
@@ -537,7 +537,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="61">
-      <comment>100% bad, Angry cactoos</comment>
+      <comment>100% bad， Angry cactoos</comment>
       <titleAcquired>愤怒的奖杯</titleAcquired>
       <titleNotAcquired>最后一坨</titleNotAcquired>
       <descriptionAcquired>来自愤怒的开发者，吃了它吧</descriptionAcquired>
@@ -545,7 +545,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="62">
-      <comment>100% good, boring golden one</comment>
+      <comment>100% good， boring golden one</comment>
       <titleAcquired>最后的金子</titleAcquired>
       <titleNotAcquired>最后一搏</titleNotAcquired>
       <descriptionAcquired>你可以徜徉在金子的海洋中了</descriptionAcquired>
@@ -571,7 +571,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="69">
-      <comment>Text only, no cup</comment>
+      <comment>Text only， no cup</comment>
       <titleAcquired>终极奖杯</titleAcquired>
       <titleNotAcquired>终极奖杯</titleNotAcquired>
       <descriptionAcquired />
@@ -579,7 +579,7 @@
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="75">
-      <comment>Secret achievement, when you exit the game</comment>
+      <comment>Secret achievement， when you exit the game</comment>
       <titleAcquired>秘密的门</titleAcquired>
       <titleNotAcquired />
       <descriptionAcquired />

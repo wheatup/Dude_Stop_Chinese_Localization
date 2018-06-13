@@ -2,10 +2,10 @@
 <VoiceContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Note>
 	--------------------------
-	Dude, Stop. Property of Team HalfBeard.
-	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	Dude， Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE！ Make a copy of the whole folder EN and put it next to it， and change words there.
 	DO NOT CHANGE GUID and Subtitles ID.
-	Comment is for you only - no need to translate them, unless you want to help another translator.
+	Comment is for you only - no need to translate them， unless you want to help another translator.
 	--------------------------
 </Note>
   <EntryList>
@@ -13,12 +13,12 @@
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Comment>BAD END, Text only.
-Each line - each line in the game. Add (w1) in front of a line, to delay that line for 1 (any number) second
+          <Comment>BAD END， Text only.
+Each line - each line in the game. Add (w1) in front of a line， to delay that line for 1 (any number) second
 Always cups in the game.</Comment>
-          <Text>可耻,
-(w2)可耻,
-(w2)可耻,
+          <Text>可耻，
+(w2)可耻，
+(w2)可耻，
 (w2)可耻</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
@@ -74,9 +74,9 @@ Always cups in the game.</Comment>
           <Text>残忍</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>CTRL+Z!
-CTRL+Z!
-CTRL+Z?</Text>
+          <Text>CTRL+Z！
+CTRL+Z！
+CTRL+Z？</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
           <Text>我一点都不意外</Text>
@@ -128,10 +128,10 @@ CTRL+Z?</Text>
           <Text>评价：你很差</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="True">
-          <Text>哥们, 别闹</Text>
+          <Text>哥们， 别闹</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="True" MonsterEnding="False">
-          <Comment>GOOD END, Text only</Comment>
+          <Comment>GOOD END， Text only</Comment>
           <Text>对
 就是这样</Text>
         </VoiceEnding>
@@ -791,7 +791,7 @@ CTRL+Z?</Text>
 你能听到我说话是很重要的！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>一二，一二，喂喂喂测试!</Text>
+          <Text>一二，一二，喂喂喂测试！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
           <Text>好了吗？你能听到我了吗？</Text>
@@ -873,7 +873,7 @@ CTRL+Z?</Text>
 好吧，抱歉，我不会这么做了</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>啵！哈哈哈哈!</Text>
+          <Text>啵！哈哈哈哈！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -1077,7 +1077,7 @@ CTRL+Z?</Text>
     <VoiceEntry GUID="7fe80e91-15db-5f8e-1f98-be5113ee3706" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>我说过"禁止捣乱"!</Text>
+          <Text>我说过"禁止捣乱"！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>禁止</Text>
@@ -1165,7 +1165,7 @@ CTRL+Z?</Text>
     <VoiceEntry GUID="7e45cfc7-e73b-ce4b-cec4-55edeb84ad94" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Comment>this can't be empty, but never used, sooo... "1" should work</Comment>
+          <Comment>this can't be empty， but never used， sooo... "1" should work</Comment>
           <Text>1</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -1357,10 +1357,10 @@ CTRL+Z?</Text>
           <Text>额...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>啥玩... ?</Text>
+          <Text>啥玩... ？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
-          <Text>为什么这... ?</Text>
+          <Text>为什么这... ？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="6">
           <Text>什么...</Text>
@@ -1369,7 +1369,7 @@ CTRL+Z?</Text>
           <Text>什么鬼东西！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="8">
-          <Text>嗯... 哼?</Text>
+          <Text>嗯... 哼？</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -1377,7 +1377,7 @@ CTRL+Z?</Text>
     <VoiceEntry GUID="546c232d-7506-2a57-c027-f13f9a1a23b0" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>D.U.C.K! 不要啊！...</Text>
+          <Text>D.U.C.K！ 不要啊！...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>你看到没有？
@@ -1430,7 +1430,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>包括一个扩展包，和预料中的一样</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>怎么会...别这样，你这蠢D.U.C.K.!</Text>
+          <Text>怎么会...别这样，你这蠢D.U.C.K.！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
           <Text>为什么突然需要这么多数据了？
@@ -1446,7 +1446,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>没有新扩展包...
-哈! D.U.C.K.今天罢工了！</Text>
+哈！ D.U.C.K.今天罢工了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
           <Text>奇怪，但是我喜欢</Text>
@@ -1470,7 +1470,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>到时候删除它希望也能这么稳定。</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>嘿！D.U.C.K.!我开玩笑的，打开它！</Text>
+          <Text>嘿！D.U.C.K.！我开玩笑的，打开它！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
           <Text>很好</Text>
@@ -1491,7 +1491,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
 我不知道为什么我不能解锁新的扩展包！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>别怪我，要怪就怪那个D.U.C.K.!</Text>
+          <Text>别怪我，要怪就怪那个D.U.C.K.！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -1545,10 +1545,10 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>求锁定，求锁定，求...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>不！我锁定它是有原因的，你这死D.U.C.K.!</Text>
+          <Text>不！我锁定它是有原因的，你这死D.U.C.K.！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>不！为什么你总是...你这D.U.C.K.!...</Text>
+          <Text>不！为什么你总是...你这D.U.C.K.！...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
           <Text>等一下，"数据库"是指什么？</Text>
@@ -1656,7 +1656,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="54e448da-71c9-066d-57ef-73175e0f4593" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>呜呼! 你成功了！
+          <Text>呜呼！ 你成功了！
 你解锁了游戏中的每一个奖杯！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
@@ -1809,7 +1809,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>嗯，号码是什么来着</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="4">
-          <Text>是... 3... 7... 1...吗?</Text>
+          <Text>是... 3... 7... 1...吗？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
           <Text>2... 5... 7...</Text>
@@ -2765,7 +2765,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="d03790c4-a338-6b1e-1da8-358d57404b0e" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Comic saaaaaaaans!</Text>
+          <Text>Comic saaaaaaaans！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -5146,7 +5146,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="1a1e3baf-0747-9c57-c489-c1ed40b39e84" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Comment>this can't be empty, but never used, sooo... "1" should work</Comment>
+          <Comment>this can't be empty， but never used， sooo... "1" should work</Comment>
           <Text>1</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -5337,7 +5337,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
-    <!--与GIF问题联动，需要和那个问题配合翻译-->
+    <！--与GIF问题联动，需要和那个问题配合翻译-->
     <VoiceEntry GUID="d0c01169-5b7e-9711-715a-e1df70b7302f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
@@ -5367,7 +5367,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>KABOOOM!</Text>
+          <Text>KABOOOM！</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
           <Text>错误的按钮！</Text>
@@ -5486,7 +5486,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="4c821a16-8632-499d-cd8b-03efe0094e43" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>冲....电!!!</Text>
+          <Text>冲....电！！！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>哦，抱歉</Text>
@@ -6234,7 +6234,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="30ce0806-542d-56d4-783f-8a1d8b072741" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>好的，两张照片已经很足够了!</Text>
+          <Text>好的，两张照片已经很足够了！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -6322,7 +6322,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>是是，我知道，不稳定！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>启用D.U.C.K.?</Text>
+          <Text>启用D.U.C.K.？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
           <Text>当</Text>
@@ -6332,13 +6332,13 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
           <Comment>Last latter is wrong</Comment>
-          <Text>YEX!</Text>
+          <Text>YEX！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="6">
           <Text>啊，妈蛋</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="7">
-          <Text>YES!</Text>
+          <Text>YES！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="8">
           <Text>(西班牙语)给你看个宝...嗯？</Text>
@@ -6434,7 +6434,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Dude, Stop</Text>
+          <Text>Dude， Stop</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -6487,7 +6487,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Dude, Stop</Text>
+          <Text>Dude， Stop</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -7003,7 +7003,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="eea9acc8-e93a-920d-5e81-ab04caf4196b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Go-go-go!</Text>
+          <Text>Go-go-go！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -7658,7 +7658,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>一</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="5">
-          <Text>Go!</Text>
+          <Text>Go！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="6">
           <Text>点点点点点点点点点点点点</Text>
@@ -7688,7 +7688,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
           <Text>准备...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Go!
+          <Text>Go！
 点点点点点！</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -7707,7 +7707,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
 然后，再一次...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>GO!
+          <Text>GO！
 点点点点！</Text>
         </VoiceSubtitles>
       </Subtitles>
@@ -7915,7 +7915,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>&amp;%##^%!</Text>
+          <Text>&amp;%##^%！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -8967,7 +8967,7 @@ D.U.C.K.</Text>
 这样你才能一遍又一遍的尝试然后失败！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Have fun!</Text>
+          <Text>Have fun！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -9071,7 +9071,7 @@ D.U.C.K.</Text>
 那些无趣的金奖杯了吗？</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>KAPOW!
+          <Text>KAPOW！
 我们有科技！你可以强化它！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
@@ -9326,7 +9326,7 @@ D.U.C.K.把这个游戏弄坏了，所以赌我们不打了</Text>
 然后回去玩你那愚蠢的手机游戏吧，我不管了</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Just gooo!</Text>
+          <Text>Just gooo！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -10270,7 +10270,7 @@ D.U.C.K.把这个游戏弄坏了，所以赌我们不打了</Text>
 里面肯定满是蜘蛛网...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>And I would laugh my ass off!</Text>
+          <Text>And I would laugh my ass off！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
@@ -11658,10 +11658,10 @@ D.U.C.K.把这个游戏弄坏了，所以赌我们不打了</Text>
           <Text>现在，我们来说咒语...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Yo-^*%(%#@!</Text>
+          <Text>Yo-^*%(%#@！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>*#%-lo!
+          <Text>*#%-lo！
 然后这就是你的奖杯了！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
@@ -13243,7 +13243,7 @@ can be used only in this puzzle</Comment>
 你一切都做错了，一切都被你破坏了...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="15">
-          <Text>你甚至弄坏了我的D.U.C.K.！...我的宝贝D.U.C.K.!</Text>
+          <Text>你甚至弄坏了我的D.U.C.K.！...我的宝贝D.U.C.K.！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="16">
           <Text>现在你那些奇怪的解法都跑到网上去了！</Text>
@@ -13259,7 +13259,7 @@ can be used only in this puzzle</Comment>
           <Text>哦，我知道你现在肯定很享受...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="20">
-          <Text>...那个愚蠢的词...</Text>
+          <Text>...叫什么来着...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="21">
           <Text>...知道我现在是有多“被激怒”吗</Text>
@@ -13272,7 +13272,7 @@ can be used only in this puzzle</Comment>
           <Text>你什么都得不到！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="24">
-          <Text>&lt;size=30&gt;NOTHING, I SAID!&lt;/size&gt;</Text>
+          <Text>&lt;size=30&gt;NOTHING， I SAID！&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="25">
           <Text>你知道最搞笑的是什么吗？
@@ -13313,7 +13313,7 @@ can be used only in this puzzle</Comment>
           <Text>游戏结束！小子！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="37">
-          <Text>&lt;size=30&gt;GAME OVER!!&lt;/size&gt;</Text>
+          <Text>&lt;size=30&gt;GAME OVER！！&lt;/size&gt;</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="38">
           <Text>给我滚出这里！</Text>
@@ -13351,7 +13351,7 @@ can be used only in this puzzle</Comment>
         </VoiceSubtitles>
         <VoiceSubtitles Index="49">
           <Comment>don't translate (type:##)
-type:2 - means type over 2 sec this line, letter by letter</Comment>
+type:2 - means type over 2 sec this line， letter by letter</Comment>
           <Text>(type:4)啊啊啊啊啊啊啊啊啊啊啊</Text>
         </VoiceSubtitles>
       </Subtitles>

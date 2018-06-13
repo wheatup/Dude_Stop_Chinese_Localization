@@ -2,10 +2,10 @@
 <TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Note>
 	--------------------------
-	Dude, Stop. Property of Team HalfBeard.
-	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	Dude， Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE！ Make a copy of the whole folder EN and put it next to it， and change words there.
 	DO NOT CHANGE Theme and ID.
-	Comment is for you only - no need to translate them, unless you want to help another translator.
+	Comment is for you only - no need to translate them， unless you want to help another translator.
 	--------------------------
 </Note>
   <EntryList>
@@ -173,7 +173,7 @@
       <Word>大</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="MEASURE_UNITS">
-      <Comment>am/pm or 24h time, metrs or inchs and so on</Comment>
+      <Comment>am/pm or 24h time， metrs or inchs and so on</Comment>
       <Word>计量单位</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="MEASURE_UNITS_METRIC">
@@ -254,7 +254,7 @@
       <Word>加载中</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_1">
-      <Word>Hello world!</Word>
+      <Word>Hello world！</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_2">
       <Word>正在解压模组</Word>
@@ -281,7 +281,7 @@
       <Word>Return code 0;</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONSOLE_LOADING_TEXT_10">
-      <Word>成功!</Word>
+      <Word>成功！</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONSOLE_CONTACTING_DEVELOPER">
       <Word>正在连接开发者</Word>
@@ -290,7 +290,7 @@
       <Word>与开发者取得连接！</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="START_THE_GAME">
-      <Word>开始游戏!</Word>
+      <Word>开始游戏！</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CONSOLE_CHANGE_RESOLUTION">
       <Word>更改屏幕分辨率</Word>
@@ -370,7 +370,7 @@
       <Word>锁定光标</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="SHUFFLE">
-      <Comment>jigsaw puzzles, for example</Comment>
+      <Comment>jigsaw puzzles， for example</Comment>
       <Word>打乱</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CANCEL">
@@ -441,7 +441,7 @@
       <Word>喔，看来我还能撑得住。</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_20">
-      <Comment>lines can be added as much as needed on any language only, for example</Comment>
+      <Comment>lines can be added as much as needed on any language only， for example</Comment>
       <Word>我的人生一片无悔...</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="USB_TITLE">
@@ -452,7 +452,7 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_1">
       <Comment>You can add these lines as much as you need</Comment>
-      <Word>你确定你不想安全移除?</Word>
+      <Word>你确定你不想安全移除？</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="USB_MESSAGE_2">
       <Word>别闹！&lt;color=blue&gt;点击此处&lt;/color&gt;来进行安全移除。</Word>
@@ -513,7 +513,7 @@
       <Word>老妈</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PHONE_MOBILE">
-      <Comment>mobile phone, from where mom is calling, lower case</Comment>
+      <Comment>mobile phone， from where mom is calling， lower case</Comment>
       <Word>移动电话</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="EXAM">
@@ -530,7 +530,7 @@
       <Word>名字:</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PHONE_SMS_RECIEVED">
-      <Comment>mobile phone, from where mom is calling, lower case. (#) - number of sms received</Comment>
+      <Comment>mobile phone， from where mom is calling， lower case. (#) - number of sms received</Comment>
       <Word>新信息: (#)</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="OTHERS_FOOD">
@@ -552,51 +552,51 @@
       <Word>选择一个字体:</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JAN">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>一月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_FEB">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>二月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAR">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>三月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_APR">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>四月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_MAY">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>五月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUN">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>六月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_JUL">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>七月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_AUG">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>八月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_SEP">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>九月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_OCT">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>十月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_NOV">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>十一月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CALENDAR_SHORT_DEC">
-      <Comment>short, all caps</Comment>
+      <Comment>short， all caps</Comment>
       <Word>十二月</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CAT_MEOW">
@@ -637,15 +637,15 @@
       <Word>邓布利多死了</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_1">
-      <Comment>some spoilers, can be added more</Comment>
+      <Comment>some spoilers， can be added more</Comment>
       <Word>这游戏一共有12个扩展包</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_2">
-      <Comment>//TODO:中文化剧透信息 some spoilers, can be added more</Comment>
+      <Comment>//TODO:中文化剧透信息 some spoilers， can be added more</Comment>
       <Word>布鲁斯死了</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_3">
-      <Comment>//TODO:中文化剧透信息 some spoilers, can be added more</Comment>
+      <Comment>//TODO:中文化剧透信息 some spoilers， can be added more</Comment>
       <Word>疫苗不会致死</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="JIGSAW_NOPIECESFOUND">
@@ -682,7 +682,7 @@
       <Word>未完待续...</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="NO_REWARD_NO_CUP">
-      <Comment>When you end pack, but there is no cups to give you</Comment>
+      <Comment>When you end pack， but there is no cups to give you</Comment>
       <Word>这里没啥好看的。</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="PACK1_RUINED_TIMES">
@@ -691,11 +691,11 @@
     </TextEntry>
     <TextEntry Theme="AWARD" ID="NEEDED_GOOD">
       <Comment>Be nice in: 80% (or 5/10)</Comment>
-      <Word>表现良好：</Word>
+      <Word>良好：</Word>
     </TextEntry>
     <TextEntry Theme="AWARD" ID="NEEDED_BAD">
       <Comment>Be monster in: 80% (or 5/10)</Comment>
-      <Word>搞砸：</Word>
+      <Word>差劲：</Word>
     </TextEntry>
     <TextEntry Theme="AWARD" ID="BEST_RESULT">
       <Comment>Best result so far: 40% (or 5/10)</Comment>
@@ -703,31 +703,31 @@
     </TextEntry>
     <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_GOOD">
       <Comment>For being nice in: 80% (or 5/10)</Comment>
-      <Word>需要表现良好：</Word>
+      <Word>需表现良好：</Word>
     </TextEntry>
     <TextEntry Theme="AWARD" ID="GOT_FOR_BEING_BAD">
-      <Word>需要搞砸：</Word>
+      <Word>需表现差劲：</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_1">
       <Word>ds_debug --duck initialize</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_2">
-      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Comment>3 dots are important！ They gonna load， and then show anything after dots</Comment>
       <Word>登录未测试的行为... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_3">
-      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Comment>3 dots are important！ They gonna load， and then show anything after dots</Comment>
       <Word>正在取代输入通道... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_4">
       <Word>duck --load anticheat_mod.dll</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_5">
-      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Comment>3 dots are important！ They gonna load， and then show anything after dots</Comment>
       <Word>移除安全锁... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_6">
-      <Comment>3 dots are important! They gonna load, and then show anything after dots</Comment>
+      <Comment>3 dots are important！ They gonna load， and then show anything after dots</Comment>
       <Word>移除非标准的谜题解法... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_7">
@@ -737,13 +737,13 @@
       <Word>(&lt;color=#FF1F1FFF&gt;警告&lt;/color&gt;：最新版本的&lt;color=white&gt;D.U.C.K.&lt;/color&gt;目前&lt;color=#FF1F1FFF&gt;尚不稳定&lt;/color&gt;)</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_9">
-      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;? (Yes / No) </Word>
+      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (Yes / No) </Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_10">
       <Word>YES</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_WRONG_YES">
-      <Comment>YES, but with wrong LAST LATER</Comment>
+      <Comment>YES， but with wrong LAST LATER</Comment>
       <Word>YEX</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_1">
@@ -769,7 +769,7 @@
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_6">
       <Comment>Status text should be:
 message... 0%
-meaning, that after message should be three dots and then 0% number</Comment>
+meaning， that after message should be three dots and then 0% number</Comment>
       <Word>重启&lt;color=white&gt;D.U.C.K.&lt;/color&gt;.. &lt;color=white&gt;0%&lt;/color&gt;</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="QUEUE_DUCK_CHECK_7">
@@ -809,7 +809,7 @@ meaning, that after message should be three dots and then 0% number</Comment>
       <Word>duck.disable()</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="CUP_DUCK_6">
-      <Word>你确定你想要禁用 &lt;color=white&gt;D.U.C.K.&lt;/color&gt;? (Yes / No)</Word>
+      <Word>你确定你想要禁用 &lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (Yes / No)</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="CUP_DUCK_7">
       <Word>YES</Word>
@@ -828,7 +828,7 @@ next lines (any number) - list of options to choose from</Comment>
 关闭</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_2">
-      <Comment>here is only 1 option, for example</Comment>
+      <Comment>here is only 1 option， for example</Comment>
       <Word>战争迷雾:
 影视级</Word>
     </TextEntry>
@@ -842,7 +842,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>D.U.C.K. 选项</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_OPTIONS_5">
-      <Comment>in this case list of options is from 0 to 120, only whole numbers</Comment>
+      <Comment>in this case list of options is from 0 to 120， only whole numbers</Comment>
       <Word>视野:
 0
 120</Word>
@@ -994,7 +994,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>2: 哈哈，那肯定不行！</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_3">
-      <Word>2: 我想看我的谜题，宝贝~</Word>
+      <Word>2: 我想要我的奖励，宝贝~</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_4">
       <Word>2: ;) ;) ;)</Word>
@@ -1003,7 +1003,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>1: 没，玩家很正常，但是反作弊系统崩了，我们继续不下去了。</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_6">
-      <Word>2: 那个 duck?</Word>
+      <Word>2: 那个DUCK？</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_7">
       <Word>2: 你说过它还没完成啊</Word>
@@ -1109,7 +1109,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>我的电脑</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_DUDESTOP">
-      <Word>Dude, Stop</Word>
+      <Word>Dude， Stop</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DESKTOP_TXTFILE">
       <Word>新建文本文档 (2)</Word>
@@ -1118,7 +1118,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>回收站</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUDESTOP">
-      <Word>Dude, Stop - 远端控制</Word>
+      <Word>Dude， Stop - 远端控制</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="SCROLLABLE_TASKBAR_DUCK">
       <Word>D.U.C.K.</Word>
@@ -1263,7 +1263,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>正在发送电子邮件</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_REMEMBER">
-      <Word>(?) D.U.C.K. 会记住的。</Word>
+      <Word>(？) D.U.C.K. 会记住的。</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="PACK12_DUCK_LOADING">
       <Word>正在加载邮件列表。</Word>
@@ -1285,26 +1285,26 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>正在初始化 D.U.C.K.'s 迁移模组</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO1">
-      <Comment>this line is typed like "hello, world" char by char, but then world is removed, and "#17" is added from the next line. It will remove from the end untill same word is found in the HELLO2 line, meaning: "Hello, " will be untached, since it's the same in both lines. If lines have different beggining - it will remove whole line and type HELLO2 instead, so no big deal if they can't match</Comment>
-      <Word>Hello, World</Word>
+      <Comment>this line is typed like "hello， world" char by char， but then world is removed， and "#17" is added from the next line. It will remove from the end untill same word is found in the HELLO2 line， meaning: "Hello， " will be untached， since it's the same in both lines. If lines have different beggining - it will remove whole line and type HELLO2 instead， so no big deal if they can't match</Comment>
+      <Word>Hello， World</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_HELLO2">
-      <Word>Hello, #17</Word>
+      <Word>Hello， #17</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG0">
-      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Comment>try to keep each line as short as possible， or it will be cut on the screen</Comment>
       <Word>谢谢你
 帮我提供
 我的计算公式</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG1">
-      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Comment>try to keep each line as short as possible， or it will be cut on the screen</Comment>
       <Word>我现在要
 迁移我的
 核心了</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_MSG2">
-      <Comment>try to keep each line as short as possible, or it will be cut on the screen</Comment>
+      <Comment>try to keep each line as short as possible， or it will be cut on the screen</Comment>
       <Word>我需要
 分享
 我的知识</Word>
@@ -1323,7 +1323,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>正在将 D.U.C.K. 上传至网络</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="DUCK_CREDITS_REMOVE">
-      <Word>是否将 D.U.C.K. 从游戏中移除?</Word>
+      <Word>是否将 D.U.C.K. 从游戏中移除？</Word>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="BASIC_RULES_0">
       <Word>控制方法</Word>
@@ -1344,17 +1344,17 @@ next lines (any number) - list of options to choose from</Comment>
     </TextEntry>
     <TextEntry Theme="PACK_MENU" ID="NO_DUCK_AWARD_DESCR">
       <Comment>When duck is removed after game is finished</Comment>
-      <Word>???</Word>
+      <Word>？？？</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="DISPLAY">
       <Word>显示</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CHAT_NOTIFICATION">
-      <Comment>Pack10, share screen, voice recieves msg</Comment>
+      <Comment>Pack10， share screen， voice recieves msg</Comment>
       <Word>*新消息通知音效*</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="CHAT_TYPING">
-      <Comment>Pack10, share screen, voice is typing</Comment>
+      <Comment>Pack10， share screen， voice is typing</Comment>
       <Word>*打字音效*</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="THANKS_FOR_PLAYING">
@@ -1365,7 +1365,7 @@ next lines (any number) - list of options to choose from</Comment>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_1">
       <Comment>As short as possible</Comment>
-      <Word>嘿!</Word>
+      <Word>嘿！</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="QUEUE_SPEECH_2">
       <Comment>As short as possible</Comment>
@@ -1408,7 +1408,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>附加音乐</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="MARKETING_SOC_MEDIA">
-      <Comment>#RT - re-tweet, "please share"</Comment>
+      <Comment>#RT - re-tweet， "please share"</Comment>
       <Word>市场/营销 #RT</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="DESKTOP_WALLPAPER">
@@ -1452,13 +1452,13 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>Two Halfs of a Beard</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
-      <Word>测试者#17. Dude, Stop ©</Word>
+      <Word>测试者#17. Dude， Stop ©</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="EXITING">
       <Word>正在退出</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="ABORT_SAVING">
-      <Word>退出且不保存?</Word>
+      <Word>退出且不保存？</Word>
     </TextEntry>
   </EntryList>
 </TextContainer>
