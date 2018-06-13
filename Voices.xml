@@ -5337,7 +5337,6 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
-    <！--与GIF问题联动，需要和那个问题配合翻译-->
     <VoiceEntry GUID="d0c01169-5b7e-9711-715a-e1df70b7302f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
