@@ -627,7 +627,7 @@
       <Word>相册</Word>
     </TextEntry>
     <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_STARTING_TITLE">
-      <Word>熊熊烈火！</Word>
+      <Word>速战速决！</Word>
     </TextEntry>
     <TextEntry Theme="RAPID_FIRE" ID="PACK_IS_OVER_TITLE">
       <Word>扩展包已完成</Word>
