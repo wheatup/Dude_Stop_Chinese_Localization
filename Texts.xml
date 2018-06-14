@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UsePCFont="true">
   <Note>
 	--------------------------
 	Dude， Stop. Property of Team HalfBeard.
@@ -980,6 +980,9 @@ next lines (any number) - list of options to choose from</Comment>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_DUCK_SCREEN_SHARE_CONNECT">
       <Word>连接</Word>
+    </TextEntry>
+    <TextEntry Theme="PUZZLE" ID="SCROLLABLE_TYPING">
+      <Word>Marc正在输入...</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_0">
       <Comment>First screen</Comment>
