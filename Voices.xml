@@ -3127,7 +3127,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="83cef6a9-0800-9ce6-79b4-523135cb8133" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>恭喜！</Text>
+          <Text>集中注意！</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -3415,7 +3415,7 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="9e4b8d6a-9879-a04f-1439-52ab6fa44f65" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>好啦好啦，行了，我给你评分！</Text>
+          <Text>好啦好啦，行了，我给你成就！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>我现在要给你评分了，再一次！</Text>
@@ -4035,8 +4035,8 @@ D.U.C.K. 解锁了一个新的扩展包！</Text>
     <VoiceEntry GUID="b732c57f-18e6-20a3-bbc5-e8fca63ae986" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>你就像是把淘气给翻了两倍
-所以你应该会收到额外的煤炭！（圣诞节煤炭梗）</Text>
+          <Text>你就像是把淘气给翻了两倍，
+所以你应该会收到额外的煤炭！</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>然而我们煤炭用完了</Text>
