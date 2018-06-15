@@ -408,19 +408,19 @@
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_QUESTION">
       <Comment>say/pronaunce. Do not translate GIF word</Comment>
-      <Word>GIF到底怎么念？</Word>
+      <Word>“说服”的“说”怎么念？</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_ON">
       <Comment>bomb is on/activated. lower case. Short.</Comment>
-      <Word>开</Word>
+      <Word>ON</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_GIF">
       <Comment>can be translated.</Comment>
-      <Word>[gif]</Word>
+      <Word>[shuō]</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="BOMB_JIF">
       <Comment>can be translated.</Comment>
-      <Word>[jif]</Word>
+      <Word>[shuì]</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="HUNDREAD_PHOTOS_-20">
       <Comment>show this at 80% capacity</Comment>
@@ -641,11 +641,11 @@
       <Word>这游戏一共有12个扩展包</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_2">
-      <Comment>//TODO:中文化剧透信息 some spoilers， can be added more</Comment>
-      <Word>布鲁斯死了</Word>
+      <Comment>//TODO:中文化剧透信息</Comment>
+      <Word>灭霸收集齐了6颗宝石</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_3">
-      <Comment>//TODO:中文化剧透信息 some spoilers， can be added more</Comment>
+      <Comment>//TODO:中文化剧透信息</Comment>
       <Word>疫苗不会致死</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="JIGSAW_NOPIECESFOUND">
@@ -731,13 +731,13 @@
       <Word>移除非标准的谜题解法... 完成</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_7">
-      <Word>duck &gt;&gt; this game</Word>
+      <Word>D.U.C.K. &gt;&gt; 此游戏</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_8">
       <Word>(&lt;color=#FF1F1FFF&gt;警告&lt;/color&gt;：最新版本的&lt;color=white&gt;D.U.C.K.&lt;/color&gt;目前&lt;color=#FF1F1FFF&gt;尚不稳定&lt;/color&gt;)</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_9">
-      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (是 / 否) </Word>
+      <Word>启用&lt;color=white&gt;D.U.C.K.&lt;/color&gt;？ (Yes / no) </Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="HUNDRED_PHOTOS_DUCK_10">
       <Word>YES</Word>
@@ -1046,7 +1046,7 @@ next lines (any number) - list of options to choose from</Comment>
       <Word>2: 把我照相机准备好</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_19">
-      <Word>2: 到时候你得</Word>
+      <Word>2: 到时候你得...</Word>
     </TextEntry>
     <TextEntry Theme="PUZZLE" ID="SCROLLABLE_CHATMESSAGE_20">
       <Comment>Third screen</Comment>
@@ -1452,7 +1452,7 @@ next lines (any number) - list of options to choose from</Comment>
 以及字幕</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="DEVELOPERS">
-      <Word>Two Halfs of a Beard</Word>
+      <Word>Two halfs of the beard</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
       <Word>测试者#17. Dude， Stop ©</Word>
