@@ -99,16 +99,16 @@
     </AwardEntry>
     <AwardEntry index="23">
       <comment>Good cup， Hat from a University graduation</comment>
-      <titleAcquired>毕业帽</titleAcquired>
+      <titleAcquired>四..什么帽</titleAcquired>
       <titleNotAcquired>教育的意义</titleNotAcquired>
       <descriptionAcquired>感觉有点沉，也许是因为欠了一屁股债的原因吧。
-[欧洲人，如果你不懂这个笑话的话……其实这不算是笑话，请求人道主义援助！]</descriptionAcquired>
+[欧洲人，如果你不懂这个笑话的话……其实这不算是笑话，请求资本主义协助！]</descriptionAcquired>
       <descriptionNotAcquired>你的未来（的扩展包）的通行证！</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="56">
       <comment>100% bad， Chocolate medal</comment>
-      <titleAcquired>巧克力奖牌</titleAcquired>
+      <titleAcquired>奖牌（内含葡萄干）</titleAcquired>
       <titleNotAcquired>失败的话</titleNotAcquired>
       <descriptionAcquired>奖牌哪有吃的实在</descriptionAcquired>
       <descriptionNotAcquired>生来愚蠢！</descriptionNotAcquired>
@@ -128,7 +128,7 @@
       <titleNotAcquired>意料之外</titleNotAcquired>
       <descriptionAcquired>不请自来的礼物
 
-顺便一提，&lt;color=white&gt;剧透一时爽，全家……&lt;/color&gt;</descriptionAcquired>
+顺便一提，&lt;color=white&gt;剧透一时爽&lt;/color&gt;</descriptionAcquired>
       <descriptionNotAcquired>意料之外</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -161,7 +161,7 @@
     <AwardEntry index="35">
       <comment>100% good， boring golden one</comment>
       <titleAcquired>金质奖杯</titleAcquired>
-      <titleNotAcquired>完美</titleNotAcquired>
+      <titleNotAcquired>24K纯金</titleNotAcquired>
       <descriptionAcquired>金的化学符号是Au，周期表排79位。纯净的金是一种闪亮，略带红的黄色，高密度，柔软，可溶解，高延展性的金属。 </descriptionAcquired>
       <descriptionNotAcquired>最好中的最好中的最好的</descriptionNotAcquired>
       <shortDescriptionAcquired />
@@ -176,9 +176,9 @@
     </AwardEntry>
     <AwardEntry index="64">
       <comment>For cutting crust off， Cup is Pineapple</comment>
-      <titleAcquired>披萨边最讨厌了</titleAcquired>
+      <titleAcquired>脆皮最讨厌了</titleAcquired>
       <titleNotAcquired />
-      <descriptionAcquired>你给我乖乖吃了它</descriptionAcquired>
+      <descriptionAcquired>给你吃吧</descriptionAcquired>
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -332,10 +332,10 @@
     </AwardEntry>
     <AwardEntry index="45">
       <comment>100% bad， Items that break fast. Other text is in a WORDS file (SLOWRAPID_CUP)</comment>
-      <titleAcquired>快，但是错了</titleAcquired>
-      <titleNotAcquired>快，但是不对</titleNotAcquired>
+      <titleAcquired>又快又烂</titleAcquired>
+      <titleNotAcquired>又快又烂</titleNotAcquired>
       <descriptionAcquired />
-      <descriptionNotAcquired>通常来说，稳中才能求胜。但也许对你并不起作用
+      <descriptionNotAcquired>通常来说，稳中才能求胜，但也许对你并不起作用
 (每一次玩谜题都不一样)</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -367,7 +367,7 @@
       <comment>Bad cup， Claw</comment>
       <titleAcquired>爪子</titleAcquired>
       <titleNotAcquired>你坏坏</titleNotAcquired>
-      <descriptionAcquired>爪子是个大师，知道谁是谁非。而你已经知道判决书上写了什么了</descriptionAcquired>
+      <descriptionAcquired>爪子是你的主人，知道谁是谁非。而你已经知道判决书上写了什么了</descriptionAcquired>
       <descriptionNotAcquired>你不会预料到它的</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
@@ -398,9 +398,9 @@
     <AwardEntry index="49">
       <comment>Wash only 1 piece</comment>
       <titleAcquired>手洗</titleAcquired>
-      <titleNotAcquired>我洗过了！</titleNotAcquired>
+      <titleNotAcquired>你要洗了！</titleNotAcquired>
       <descriptionAcquired>慢慢洗吧（嘿嘿），下一个奖杯估计就是河边的石头了。</descriptionAcquired>
-      <descriptionNotAcquired>洗仔细一点</descriptionNotAcquired>
+      <descriptionNotAcquired>精漂细洗</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="50">
@@ -425,7 +425,7 @@
       <titleAcquired>顺序很重要</titleAcquired>
       <titleNotAcquired>技巧性胜利</titleNotAcquired>
       <descriptionAcquired>这是唯一值得遵守的规则，是吧？</descriptionAcquired>
-      <descriptionNotAcquired>你早晚会获得的</descriptionNotAcquired>
+      <descriptionNotAcquired>你迟早给我得到它</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="20">
@@ -507,7 +507,7 @@
     <AwardEntry index="60">
       <comment>Chocolate cream</comment>
       <titleAcquired>死面包</titleAcquired>
-      <titleNotAcquired>甜蜜大街的噩梦</titleNotAcquired>
+      <titleNotAcquired>甜鬼街</titleNotAcquired>
       <descriptionAcquired>现在它要缠着你一辈子了</descriptionAcquired>
       <descriptionNotAcquired>"...她走进房间，然后看到了他——站在那里，手上没有刀，震惊又恐惧的看着他所做的一切..."</descriptionNotAcquired>
       <shortDescriptionAcquired>很刀兴见到你</shortDescriptionAcquired>
@@ -559,7 +559,7 @@
       <descriptionAcquired>哈哈，有意思
 ...
 给我出去</descriptionAcquired>
-      <descriptionNotAcquired>书中最有意思的把戏</descriptionNotAcquired>
+      <descriptionNotAcquired>书中最古老的把戏</descriptionNotAcquired>
       <shortDescriptionAcquired />
     </AwardEntry>
     <AwardEntry index="71">
