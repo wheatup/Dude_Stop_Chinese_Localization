@@ -753,7 +753,7 @@ CTRL+Z？</Text>
     <VoiceEntry GUID="7e148718-b31d-fc32-3136-7726ba5f93cc" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>你是不是不想做个好人了？我给你个建议吧...</Text>
+          <Text>你真的有在试着做好人吗？我给你个建议吧...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>强制性的建议！</Text>
