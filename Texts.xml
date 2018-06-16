@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UsePCFont="true">
   <Note>
 	--------------------------
@@ -205,7 +205,7 @@
     </TextEntry>
     <TextEntry Theme="MENU" ID="COLLECT_DATA_INFO">
       <Comment>Before (cut) - Short version. After (cut) - Long version. Basically (cut) cuts this in 2 pieces for Short and Long text. Don't translate (cut)</Comment>
-      <Word>我们仅仅收集匿名统计数据，不会收集您的IP、位置、姓名、Steam数据、硬件信息等内容！(cut) 我们完全不知道您是谁，我们只知道：您解决一个谜题需要花费多长时间，或者鼠标单击的次数，以及遇到了什么样的错误，以及其他单纯的统计数据。仅仅用于改善我们的游戏！</Word>
+      <Word>我们仅仅收集匿名统计数据，不会收集您的IP、位置、姓名、Steam数据、硬件信息等内容！(cut)我们完全不知道您是谁，我们只知道：您解决一个谜题需要花费多长时间，或者鼠标单击的次数，以及遇到了什么样的错误，以及其他单纯的统计数据。仅仅用于改善我们的游戏！</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="READ_MORE">
       <Word>单击此处了解更多。</Word>
@@ -308,10 +308,10 @@
       <Word>分辨率菜单</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="GAME_BY">
-      <Word>游戏 由：</Word>
+      <Word>游戏制作</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="MUSIC_BY">
-      <Word>音乐 由：</Word>
+      <Word>音乐制作</Word>
     </TextEntry>
     <TextEntry Theme="MENU" ID="CREDITS_MENU">
       <Word>职员表</Word>
