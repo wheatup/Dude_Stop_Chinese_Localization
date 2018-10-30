@@ -637,12 +637,12 @@
       <Word>邓布利多死了</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_1">
-      <Comment>some spoilers， can be added more</Comment>
+      <Comment>//TODO:中文化剧透信息</Comment>
       <Word>这游戏一共有12个扩展包</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_2">
       <Comment>//TODO:中文化剧透信息</Comment>
-      <Word>灭霸收集齐了6颗宝石</Word>
+      <Word>圣诞老人是假的</Word>
     </TextEntry>
     <TextEntry Theme="SPOILER_CUP" ID="SC_3">
       <Comment>//TODO:中文化剧透信息</Comment>
@@ -1452,7 +1452,7 @@ next lines (any number) - list of options to choose from</Comment>
 以及字幕</Word>
     </TextEntry>
     <TextEntry Theme="CREDITS" ID="DEVELOPERS">
-      <Word>Two halfs of the beard</Word>
+      <Word>Two Halfs of the Beard</Word>
     </TextEntry>
     <TextEntry Theme="CONSOLE" ID="TEST_SUBJECT">
       <Word>测试者#17. Dude， Stop ©</Word>
@@ -1462,6 +1462,12 @@ next lines (any number) - list of options to choose from</Comment>
     </TextEntry>
     <TextEntry Theme="MENU" ID="ABORT_SAVING">
       <Word>退出且不保存？</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="LOCALIZATION">
+      <Word>本地化</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="CONTEST_WINNERS">
+      <Word>竞争胜出者</Word>
     </TextEntry>
   </EntryList>
 </TextContainer>

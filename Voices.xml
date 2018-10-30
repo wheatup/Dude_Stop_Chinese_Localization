@@ -13370,5 +13370,287 @@ type:2 - means type over 2 sec this line， letter by letter</Comment>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
+
+    <VoiceEntry GUID="6168dbef-e5da-8eb7-3678-4c239761cc51" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>有趣小知识：你输了</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="222ef824-6b9a-7039-b9c5-edc36b93a699" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>你为什么这么做，我很生气！</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>你好啊很生气
+我是爸爸</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="5aaa3fd0-f345-213a-960d-53651be195cc" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>Spooooktooobeeeeer!</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>咳咳
+抱歉，玩家</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="8cc7d1a0-f9cf-d16a-c5bc-f3d682a20389" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>妈耶，发明南瓜的那个人
+现在肯定要发财了！</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>我说得对吗，玩家？</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="46c96d13-ed7e-85fe-73a7-733cea2dd624" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>哦，我喜欢万圣节！蜡烛什么的...*咀嚼*</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>&lt;color=yellow&gt;[外面的孩子]
+不给糖就捣蛋
+不给糖就捣蛋
+不给糖就捣蛋&lt;/color&gt;</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>*咀嚼* 闪开！家里没人！</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>哦，玩家！ *咀嚼*
+怎么啦？</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="21f789bf-1fba-d409-5cbb-40a752f37a47" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>别再偷我的南瓜了...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>可恶的素食者！！</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>哦，你好啊，测试者。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="977d45bf-4d21-e85d-d74b-4e3ce8e2cb93" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>嘿！圣诞快乐...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>哦，可恶，好像早了点</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>*叹气* 我们再试一次</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>*关闭了游戏*</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="f3d09795-b09a-ff85-8eaa-3490de07d9a3" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>测试者，送袜节快乐！</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="8d27e3cc-f752-5f4f-9010-768b535da368" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>圣诞老人不是真的！傻了吧？！</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>玩家，求别卸载我...</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="49be99b8-2078-edf0-03be-8d62b8160415" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>我会是你的秘密圣诞老人...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>...只要你今晚别关门...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>...我的测试者。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="4ccd4703-70cf-ec03-2e0e-8a326c6fba41" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>这个游戏是用来帮撒旦找到淘气的孩子的。</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>哦，等下...玩家，我说的是圣诞老人！
+*咕噜* 嘿嘿</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="84d5384e-c6e1-0d16-06ea-9dd9239b8b10" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>你不觉得小偷就像是...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>圣诞老人的反义词吗</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>你懂的，嘿嘿</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="292fe108-95a0-944b-5ec9-e27b62f0aa7f" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>我列了张表，检查了两次</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="1">
+          <Text>想要知道你，会不会搞事</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="2">
+          <Text>这就是《哥们，停下》...</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="3">
+          <Text>...的意义！</Text>
+        </VoiceSubtitles>
+        <VoiceSubtitles Index="4">
+          <Text>玩家？我希望你有在鼓掌</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="3980f31c-a557-0518-6a0e-760440b8b377" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>我觉得你该配副眼镜了
+或者是望远镜。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="1fa9e74d-93c4-e3e9-33af-73b3436c4a78" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>你很 &lt;i&gt;邮&lt;/i&gt; 秀哦！</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>超烂双关
+超赞投递</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="01d406a8-4b73-aac0-5096-e1448a9e8ec7" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>拖鞋是夏天穿的，
+保暖袜是冬天穿的！</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="2c023661-56fa-b606-4ea7-7ce806e98576" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>好吧，这是解决脚冷的一个办法。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="bbf407b9-1639-3773-ade2-1c6d5647ff02" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>这里最搞笑的大概就是你了。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>然而
+并不
+好笑</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="e0783202-f8a5-fd52-a3a3-4d4ebbdc67d5" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>这字体最适合用来书写你悲剧的一生。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="05709ff4-6bd1-0cc0-af0b-03300ef4aacd" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>这字体没有它的名字感觉上有意思。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="facbc0be-ebea-fa82-6046-596c8bfda48a" AllowedEndingType="MonsterOnly">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>这样的话，我很抱歉。</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList>
+        <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
+          <Text>你瞎啊？</Text>
+        </VoiceEnding>
+      </EndingList>
+    </VoiceEntry>
+    <VoiceEntry GUID="fbf3eaf6-f104-fabd-b6fa-1feff7e3a97b" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>需要我为你特意加上色盲选项吗？</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="287a5fc2-cdc8-dce6-ec89-a077215a478a" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>负十亿分！</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
+    <VoiceEntry GUID="a4289de0-97bb-54ab-799e-10e2b93a4ead" AllowedEndingType="None">
+      <Subtitles>
+        <VoiceSubtitles Index="0">
+          <Text>你一定要碰鼠标，是不是？</Text>
+        </VoiceSubtitles>
+      </Subtitles>
+      <EndingList />
+    </VoiceEntry>
   </EntryList>
 </VoiceContainer>
