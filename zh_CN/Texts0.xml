@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and ID.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <TextEntry Theme="CREDITS" ID="LOCALIZATION">
+      <Word>本地化</Word>
+    </TextEntry>
+    <TextEntry Theme="CREDITS" ID="CONTEST_WINNERS">
+      <Word>比赛优胜者</Word>
+    </TextEntry>
+  </EntryList>
+</TextContainer>

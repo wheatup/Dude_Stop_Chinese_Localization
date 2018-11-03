@@ -1463,11 +1463,5 @@ next lines (any number) - list of options to choose from</Comment>
     <TextEntry Theme="MENU" ID="ABORT_SAVING">
       <Word>退出且不保存？</Word>
     </TextEntry>
-    <TextEntry Theme="CREDITS" ID="LOCALIZATION">
-      <Word>本地化</Word>
-    </TextEntry>
-    <TextEntry Theme="CREDITS" ID="CONTEST_WINNERS">
-      <Word>竞争胜出者</Word>
-    </TextEntry>
   </EntryList>
 </TextContainer>

@@ -595,22 +595,5 @@
       <descriptionNotAcquired />
       <shortDescriptionAcquired />
     </AwardEntry>
-    <AwardEntry index="77">
-      <comment>Halloween Cup, # - will be replaced with a number</comment>
-      <titleAcquired>万圣之果</titleAcquired>
-      <titleNotAcquired>万圣节补丁的第 (#) 个幽灵</titleNotAcquired>
-      <descriptionAcquired>不含香料和拿铁</descriptionAcquired>
-      <descriptionNotAcquired>在你家小区
-发生着奇怪的事情...</descriptionNotAcquired>
-      <shortDescriptionAcquired />
-    </AwardEntry>
-    <AwardEntry index="78">
-      <comment>Christmas Cup for the Christmas.</comment>
-      <titleAcquired>圣诞礼物</titleAcquired>
-      <titleNotAcquired>圣诞补给箱</titleNotAcquired>
-      <descriptionAcquired>内含世间万物... 除了你想要的东西</descriptionAcquired>
-      <descriptionNotAcquired>一分钱也不要都嫌贵</descriptionNotAcquired>
-      <shortDescriptionAcquired />
-    </AwardEntry>
   </EntryList>
 </AwardContainer>
