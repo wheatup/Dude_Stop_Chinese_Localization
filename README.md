@@ -2,6 +2,8 @@
 
 Steam游戏《Dude, Stop（暂译：哥们，停下）》的中文化文件目录。
 
+#### <span style="color: #933; font-weight: bold;">目前本补丁包仅支持beta版，请确认进入beta测试后再使用本语言包。</span>
+
 ------
 
 ### 目录
